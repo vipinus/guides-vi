@@ -18,7 +18,7 @@ Một tài khoản LeoTun có sáu cách kết nối: Mạng riêng (Tailscale),
 - Mạng cáp hay rớt, sóng Wi‑Fi yếu: Web Proxy. Nó hoạt động theo từng yêu cầu, không giữ kết nối lâu dài, nên về thiết kế thì không có kết nối nào để rớt.
 - Mạng cáp ở khu nhà cũ, dữ liệu di động, mất gói nhiều: Hiddify. Giao thức của nó được thiết kế để chịu mất gói và cho tốc độ tốt nhất trên những mạng như vậy.
 - Máy tính đang kết nối VPN của công ty: Web Proxy. Hai VPN cho cả máy chạy cùng lúc sẽ giành nhau cài đặt mạng; Web Proxy chỉ lo trình duyệt nên không ảnh hưởng nhau.
-- Mạng cáp China Mobile, Great Wall và nhà mạng khác, hoặc đường xuyên biên giới lúc nào cũng chập chờn: cách nào cũng được, chọn điểm vào khu vực Trung Quốc. Ứng dụng chỉ kết nối tới một địa chỉ trong Trung Quốc, chặng xuyên biên giới do chúng tôi lo, nên không bị nhiễu xuyên biên giới ảnh hưởng.
+- Mạng cáp China Mobile, Great Wall và nhà mạng khác, hoặc đường xuyên biên giới lúc nào cũng chập chờn: cách nào cũng được, chọn điểm vào khu vực Trung Quốc. Đây thường là lựa chọn ổn định nhất trên các mạng này.
 
 ## Theo mục đích: bạn muốn làm gì
 

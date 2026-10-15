@@ -10,7 +10,7 @@ Cùng một dịch vụ, cùng một giao thức, tốc độ giữa các khu v�
 |---|---|---|
 | China Unicom ở miền Bắc | Nhật Bản, Hàn Quốc | Tuyến ra quốc tế của Unicom sang Nhật và Hàn thường thẳng nhất |
 | China Telecom ở miền Nam | Đông Nam Á (Singapore), Úc | Tuyến ra hướng nam của Telecom tốt |
-| China Mobile, Great Wall Broadband và các nhà mạng khác | Điểm vào Trung Quốc | Ứng dụng chỉ kết nối tới một địa chỉ trong Trung Quốc, chặng xuyên biên giới do chúng tôi lo, nên không bị nhiễu xuyên biên giới ảnh hưởng |
+| China Mobile, Great Wall Broadband và các nhà mạng khác | Điểm vào Trung Quốc | Thường ổn định nhất trên các mạng này |
 | Dữ liệu di động | Khác nhau tùy nhà mạng; thử riêng, tách khỏi mạng cáp | Trên cùng một điện thoại, khu vực tốt nhất khi dùng Wi‑Fi và khi dùng dữ liệu di động thường khác nhau |
 
 Danh sách khu vực của LeoTun dùng **đèn đỏ, vàng, xanh** để cho biết mức tải hiện tại của từng khu vực; trong mấy điểm vào Nhật Bản, hãy chọn cái đang đèn xanh.
