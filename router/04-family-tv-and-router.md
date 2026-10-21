@@ -29,4 +29,4 @@ Họ không cần biết chữ "VPN" là gì. iQIYI và Yangshipin (CCTV) trên 
 Ở chế độ chia luồng, trang web ngân hàng trong nước, dịch vụ xem phim trong nước và máy in vẫn kết nối trực tiếp. Chỉ những tên miền Trung Quốc có trong danh sách mới đi qua đường truyền về Trung Quốc. Đây cũng là lý do nên dùng chia luồng thay vì chế độ Global (toàn bộ).
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-04) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-04) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, hiệu lực lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-04) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-04) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), hiệu lực lâu dài

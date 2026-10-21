@@ -26,4 +26,4 @@ Có ứng dụng kiểm tra khu vực cả với bộ nhớ đệm trên máy, n
 Nghe nhạc tốn rất ít dữ liệu, nên dùng **Web Proxy** hoặc một cách chạy trong trình duyệt là đủ, không cần cho cả thiết bị đi qua đường truyền. Trên điện thoại, bạn cũng có thể chỉ cho ứng dụng nghe nhạc đi qua đường truyền (proxy theo ứng dụng), các ứng dụng khác vẫn dùng mạng tại chỗ — vừa tiết kiệm dữ liệu vừa đỡ hao pin.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-05) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-05) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, hiệu lực lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-05) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-05) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), hiệu lực lâu dài

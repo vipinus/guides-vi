@@ -43,4 +43,4 @@ Cả hai đều có, bạn không phải chọn. Trong hồ sơ UDP đứng trư
 File hồ sơ chứa tài khoản và mật khẩu của bạn, nên nó tương đương chính tài khoản, đừng đưa cho người khác; nếu bị lộ, hãy đổi mật khẩu trên website và file cũ mất hiệu lực ngay lập tức. Bản thân bước bắt tay cũng được mã hóa: không có khóa trong hồ sơ thì thậm chí không bắt đầu bắt tay được, và các công cụ quét không nhìn thấy máy chủ.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=client-04) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=client-04) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=client-04) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=client-04) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài

@@ -51,4 +51,4 @@ Dấu hiệu điển hình là thông báo "Nội dung này không có ở khu v
 Hãy dùng bản dùng thử miễn phí để thử lần lượt các dịch vụ bạn muốn dùng. **Giải quyết được thì ở lại; có nhu cầu khác thì liên hệ hỗ trợ**, chúng tôi sẽ giúp xem có cách nào phù hợp không.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-07) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-07) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mỗi người bạn bạn mời trả phí sẽ giúp cả hai nhận 20 ngày gói Cá nhân, ưu đãi không có hạn kết thúc
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-07) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-07) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mỗi người bạn bạn mời trả phí sẽ giúp mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi không có hạn kết thúc

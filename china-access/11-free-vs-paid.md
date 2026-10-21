@@ -28,7 +28,7 @@ Gói Cá nhân của LeoTun giá 5 đô la Mỹ mỗi tháng, gồm 24 khu vực
 
 Không muốn mua theo tháng thì có hai cách: nhận 4 giờ dùng thử miễn phí trước (không cần thẻ tín dụng, mỗi tài khoản một lần) và thử một lần vào giờ cao điểm buổi tối; hoặc trả theo ngày. Sau khi nạp điểm, gói Cá nhân tốn 1 điểm mỗi ngày, 25 điểm giá 8 đô la Mỹ, tính ra khoảng 0,32 đô la Mỹ một ngày; chỉ mua vài ngày trước chuyến về Trung Quốc là rất hợp.
 
-Khi người bạn bạn mời đăng ký và thanh toán lần đầu, thời hạn của bạn và của bạn bè mỗi người được cộng 20 ngày (tính theo gói Cá nhân), không giới hạn số người. Đây là nguồn thời gian miễn phí lâu dài.
+Khi người bạn bạn mời đăng ký và thanh toán lần đầu, bạn và bạn bè mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), không giới hạn số người. Đây là nguồn thời gian miễn phí lâu dài.
 
 ## Kiểm hàng trước khi trả tiền thế nào
 
@@ -60,4 +60,4 @@ Khi người bạn bạn mời đăng ký và thanh toán lần đầu, thời h
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-11) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-11) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-11) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-11) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài

@@ -56,4 +56,4 @@ Nếu thiết bị trong nhà ngày càng nhiều và người nhà ai cũng c�
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-09) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-09) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mỗi người bạn bạn mời trả phí sẽ giúp cả hai nhận 20 ngày gói Cá nhân, ưu đãi không có hạn kết thúc
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-09) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-09) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mỗi người bạn bạn mời trả phí sẽ giúp mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi không có hạn kết thúc

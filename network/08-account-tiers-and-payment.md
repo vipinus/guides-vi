@@ -17,7 +17,7 @@ Tài khoản LeoTun có ba gói: Cá nhân, Gia đình và Doanh nghiệp. Chún
 
 ## Tài khoản mới, và chọn gói khi mua
 
-- Tài khoản mới đăng ký mặc định ở gói Cá nhân, dùng thử miễn phí và thưởng mời bạn được tính theo mức của gói Cá nhân.
+- Tài khoản mới đăng ký mặc định ở gói Cá nhân, dùng thử miễn phí được tính theo thời lượng của gói Cá nhân.
 - Hộp gia hạn có ô chọn "Gói", mặc định là gói hiện tại của bạn; bạn bấm vào thẻ giá nào trên trang chủ thì hộp thoại chọn sẵn gói đó, và sau đó vẫn đổi được.
 - Nếu chọn một gói khác, hộp thoại sẽ hiện "Sau khi thanh toán xong, tài khoản tự chuyển sang gói tương ứng, thời hạn chưa dùng hết được quy đổi ngang giá". Giá, mức giảm và số điểm đều được tính ngay theo gói bạn chọn; thấy bao nhiêu là bị trừ đúng bấy nhiêu.
 - Bạn cũng có thể đổi gói mà không cần mua gì: bấm vào tên người dùng để đổi gói.
@@ -77,17 +77,17 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 - Điểm cũng gia hạn được theo tháng (tính 30 ngày) hoặc theo năm (tính 365 ngày), nhưng dùng điểm thì không được giảm giá.
 - Hợp với ai: người mỗi tháng chỉ dùng chừng mười ngày, hoặc chỉ cần vài ngày trước khi quay về Trung Quốc. Nếu ngày nào cũng dùng thì đăng ký theo tháng lợi hơn; với gói Cá nhân, dùng quá 15 ngày một tháng thì nên đăng ký theo tháng.
 
-## Dùng thử miễn phí và thưởng mời bạn: ngang giá trị ở mọi gói
+## Dùng thử miễn phí và thưởng mời bạn ở từng gói
 
 | | Cá nhân | Gia đình | Doanh nghiệp |
 |---|---|---|---|
 | Dùng thử miễn phí | 4 giờ | 2 giờ | 1 giờ |
-| Mỗi lần bạn được mời thanh toán lần đầu (bạn và bạn của bạn mỗi người nhận) | +20 ngày | +10 ngày | +5 ngày |
+| Mỗi lần bạn được mời thanh toán lần đầu (bạn và bạn của bạn mỗi người nhận) | 15 điểm | 15 điểm | 15 điểm |
 | Thời gian dịch vụ kèm theo khi mua router (các mẫu 24 tháng) | 24 tháng | 12 tháng | 6 tháng |
 
 - Dùng thử: đăng ký xong thì nhận trên trang chủ, không cần thẻ tín dụng; mã dùng thử được gửi vào email, nhập mã 6 chữ số để kích hoạt; mỗi tài khoản một lần. Tài khoản mới ở gói Cá nhân nên thông thường bạn nhận được 4 giờ.
-- Mời bạn: sau khi bạn bè đăng ký qua link giới thiệu của bạn và hoàn tất lần thanh toán đầu tiên, thời hạn của bạn và của bạn bè đều được cộng thẳng, không giới hạn số người. Số ngày của mỗi bên được tính theo gói mà người đó đang dùng lúc đó.
-- Các con số này đều được quy đổi tỷ lệ nghịch với hệ số giá, nên đổi sang gói nào thì giá trị bạn nhận được vẫn như nhau.
+- Mời bạn: sau khi bạn bè đăng ký qua link giới thiệu của bạn và hoàn tất lần thanh toán đầu tiên, bạn và bạn bè mỗi người nhận 15 điểm cộng thẳng vào số dư điểm, như nhau ở mọi gói và không giới hạn số người. Gói Cá nhân dùng 1 điểm mỗi ngày nên 15 điểm khoảng 15 ngày, có thể dùng để gia hạn theo ngày.
+- Dùng thử miễn phí và thời hạn đi kèm khi mua router được quy đổi tỷ lệ nghịch với hệ số giá, nên ở gói nào giá trị cũng như nhau; thưởng mời bạn là điểm và giống nhau ở cả ba gói.
 
 ## Sau khi hết hạn
 
@@ -117,4 +117,4 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 - [Câu hỏi thường gặp và liên hệ hỗ trợ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-08)
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-08) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-08) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mỗi người bạn bạn mời trả phí sẽ giúp cả hai nhận 20 ngày gói Cá nhân, ưu đãi không có hạn kết thúc
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-08) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-08) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mỗi người bạn bạn mời trả phí sẽ giúp mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi không có hạn kết thúc
