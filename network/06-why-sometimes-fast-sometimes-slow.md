@@ -43,4 +43,4 @@ Trang bạn mở chậm không có nghĩa là đường truyền chậm. Một s
 **Gần hơn chưa chắc đã nhanh hơn.** Lưu lượng mạng đi theo các tuyến kết nối giữa các nhà mạng, không theo đường chim bay trên bản đồ. Có khi đi đường vòng lại nhanh hơn, có khi cùng một khu vực mà tốc độ khác hẳn nhau ở các khung giờ khác nhau. Vì vậy câu hỏi "khu vực nào nhanh nhất" không có đáp án chuẩn; chỉ có cách thử.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-06) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-06) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-06) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-06) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài

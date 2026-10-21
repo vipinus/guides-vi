@@ -65,4 +65,4 @@ Nếu đã nhập mà không kết nối được, xem [Khắc phục sự cố 
 **Gửi mã QR cho người nhà được không?** Mã QR chứa thông tin tài khoản của bạn; gửi cho ai là người đó có tài khoản của bạn. Chia sẻ với người nhà thì được (số thiết bị cùng lúc theo gói: Cá nhân 2, Gia đình 4, Doanh nghiệp 8), nhưng đừng đăng ở nơi công khai; nếu bị lộ, đổi mật khẩu là nó hết tác dụng.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=client-02) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=client-02) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=client-02) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=client-02) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài

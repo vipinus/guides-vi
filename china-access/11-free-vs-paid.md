@@ -24,9 +24,9 @@ Một phép thử đơn giản: nếu nó rớt mà bạn thấy bực thì đã
 
 ## Nên chi bao nhiêu
 
-Gói Cá nhân của LeoTun giá 4 đô la Mỹ mỗi tháng, gồm 24 khu vực, 2 thiết bị trực tuyến cùng lúc và mọi cách kết nối — AnyConnect / OpenVPN / Hiddify / Web Proxy — và cũng dùng được với router. Gói Gia đình và Doanh nghiệp lần lượt bằng 2 lần và 4 lần giá gói Cá nhân. Khu vực, đường truyền và cách kết nối ở ba gói y hệt nhau, chỉ khác số thiết bị trực tuyến cùng lúc (4 và 8).
+Gói Cá nhân của LeoTun giá 5 đô la Mỹ mỗi tháng, gồm 24 khu vực, 2 thiết bị trực tuyến cùng lúc và mọi cách kết nối — AnyConnect / OpenVPN / Hiddify / Web Proxy — và cũng dùng được với router. Gói Gia đình và Doanh nghiệp lần lượt bằng 2 lần và 4 lần giá gói Cá nhân. Khu vực, đường truyền và cách kết nối ở ba gói y hệt nhau, chỉ khác số thiết bị trực tuyến cùng lúc (4 và 8).
 
-Không muốn mua theo tháng thì có hai cách: nhận 24 giờ dùng thử miễn phí trước (không cần thẻ tín dụng, mỗi tài khoản một lần) và thử một lần vào giờ cao điểm buổi tối; hoặc trả theo ngày. Sau khi nạp điểm, gói Cá nhân tốn 1 điểm mỗi ngày, 25 điểm giá 8 đô la Mỹ, tính ra khoảng 0,32 đô la Mỹ một ngày; chỉ mua vài ngày trước chuyến về Trung Quốc là rất hợp.
+Không muốn mua theo tháng thì có hai cách: nhận 4 giờ dùng thử miễn phí trước (không cần thẻ tín dụng, mỗi tài khoản một lần) và thử một lần vào giờ cao điểm buổi tối; hoặc trả theo ngày. Sau khi nạp điểm, gói Cá nhân tốn 1 điểm mỗi ngày, 25 điểm giá 8 đô la Mỹ, tính ra khoảng 0,32 đô la Mỹ một ngày; chỉ mua vài ngày trước chuyến về Trung Quốc là rất hợp.
 
 Khi người bạn bạn mời đăng ký và thanh toán lần đầu, thời hạn của bạn và của bạn bè mỗi người được cộng 20 ngày (tính theo gói Cá nhân), không giới hạn số người. Đây là nguồn thời gian miễn phí lâu dài.
 
@@ -46,7 +46,7 @@ Khi người bạn bạn mời đăng ký và thanh toán lần đầu, thời h
 
 **Trả theo ngày hay theo tháng lợi hơn?** Dùng từ 12 ngày mỗi tháng trở lên thì theo tháng lợi hơn; thỉnh thoảng dùng vài ngày thì theo ngày. Điểm không hết hạn, nạp một lần dùng được lâu.
 
-**Dùng thử có cần thẻ tín dụng không?** Không. Đăng ký xong thì nhận trên trang chủ: 24 giờ đủ mọi tính năng, mỗi tài khoản một lần.
+**Dùng thử có cần thẻ tín dụng không?** Không. Đăng ký xong thì nhận trên trang chủ: 4 giờ đủ mọi tính năng, mỗi tài khoản một lần.
 
 **Đã trả tiền mà vẫn rớt thì làm sao?** Đổi khu vực trước, rồi đổi cách kết nối (cả ba giao thức đều dùng được trên cùng tài khoản); vẫn không được thì đọc hướng dẫn khắc phục sự cố hoặc liên hệ bộ phận hỗ trợ. Trả tiền một phần là để có người chịu trách nhiệm.
 
@@ -60,4 +60,4 @@ Khi người bạn bạn mời đăng ký và thanh toán lần đầu, thời h
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-11) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-11) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-11) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-11) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài

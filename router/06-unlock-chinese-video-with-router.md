@@ -11,7 +11,7 @@
 | Thứ cần có | Ghi chú |
 |---|---|
 | Một router được hỗ trợ | Loại cài sẵn thì cắm là dùng; tự cài firmware thì xem [Cách cài firmware](02-flash-firmware-yourself.md) |
-| Một tài khoản | Cả ba gói Cá nhân, Gia đình và Doanh nghiệp đều dùng được tính năng Router. Đăng ký xong hãy nhận gói dùng thử miễn phí trước để chạy thử toàn bộ quy trình: tài khoản mới ở gói Cá nhân, được dùng thử 24 giờ |
+| Một tài khoản | Cả ba gói Cá nhân, Gia đình và Doanh nghiệp đều dùng được tính năng Router. Đăng ký xong hãy nhận gói dùng thử miễn phí trước để chạy thử toàn bộ quy trình: tài khoản mới ở gói Cá nhân, được dùng thử 4 giờ |
 | Mạng phía trên | Modem hoặc router sẵn có trong nhà; router mới đặt phía sau nó |
 
 ## Xong trong năm bước
@@ -37,4 +37,4 @@ Các tên miền video trong danh sách chia luồng được duy trì trong m�
 - **Router cũ làm cả nhà chậm đi**: CPU không theo kịp lưu lượng mã hóa; hãy đổi sang mẫu mạnh hơn, xem [Bắt đầu với router cài sẵn](01-plug-and-play-router.md).
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-06) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-06) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-06) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-06) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài

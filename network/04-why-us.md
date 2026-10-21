@@ -20,14 +20,14 @@ Chiều ngược lại, khi người ở nước ngoài cần dùng dịch vụ 
 - Điểm mạnh của nhà cung cấp proxy: rẻ, nhiều node, dán link subscription là dùng được ngay, người thích vọc ứng dụng thì được thoải mái tùy chỉnh.
 - Điểm yếu của nhà cung cấp proxy: phần lớn là cá nhân hoặc nhóm nhỏ thuê máy ở nước ngoài để bán lại lưu lượng, không có điểm tiếp nhận riêng trong Trung Quốc, chất lượng lối ra lên xuống theo đường truyền đi thuê; ôm tiền biến mất, đổi tên, đóng cửa là chuyện thường gặp, trả tiền một năm chưa chắc đã dùng đủ một năm; ứng dụng gần như để người dùng tự mày mò, có sự cố thì không ai chịu trách nhiệm.
 - Cách chúng tôi làm: máy là của chúng tôi, lối ra ở Trung Quốc là máy đăng ký tên thật của chính chúng tôi tại các nhà cung cấp đám mây ở đại lục; một tài khoản có sáu cách kết nối, giải pháp router cho cả nhà và nhóm hỗ trợ 24 giờ là những thứ nhà cung cấp proxy không có; chúng tôi hoạt động từ 2006 đến nay, tài khoản, thời hạn và giá không thay đổi trước và sau khi đổi tên.
-- Giá của chúng tôi: gói Cá nhân 4 đô la mỗi tháng, gói Gia đình 8 đô la, gói Doanh nghiệp 16 đô la, đã bao gồm máy riêng, sáu cách kết nối và nhóm hỗ trợ 24 giờ; bạn chỉ chọn khu vực, phía sau mỗi khu vực hệ thống tự chọn máy rảnh nhất, không cần tự đo tốc độ chọn node.
+- Giá của chúng tôi: gói Cá nhân 5 đô la mỗi tháng, gói Gia đình 10 đô la, gói Doanh nghiệp 20 đô la, đã bao gồm máy riêng, sáu cách kết nối và nhóm hỗ trợ 24 giờ; bạn chỉ chọn khu vực, phía sau mỗi khu vực hệ thống tự chọn máy rảnh nhất, không cần tự đo tốc độ chọn node.
 
 ## So với phần mềm miễn phí
 
 - Điểm mạnh của hàng miễn phí: không tốn tiền, thỉnh thoảng tra cứu gì đó thì đủ dùng.
 - Điểm yếu của hàng miễn phí: băng thông lối ra ở đại lục tính tiền theo lưu lượng, nên dịch vụ miễn phí chỉ sống được bằng cách nhồi nhiều người dùng, bóp tốc độ hoặc bán dữ liệu; loại tiện ích trình duyệt chỉ đưa yêu cầu web qua proxy, video, ứng dụng và DNS hệ thống đều không đi qua; file cài không rõ nguồn gốc tự nó đã là rủi ro, xem "Cách nhận biết phần mềm VPN rủi ro".
-- Cách chúng tôi làm: dùng thử miễn phí 24 giờ không cần thẻ tín dụng, để bạn kiểm hàng; trả theo ngày (bằng điểm) cho người thỉnh thoảng mới dùng; mời một người bạn trả phí thì mỗi người nhận 20 ngày (tính theo gói Cá nhân) — nguồn thời gian miễn phí lâu dài.
-- Cách chúng tôi sắp xếp: thời gian miễn phí đến từ 24 giờ dùng thử và thưởng mời bạn; dùng lâu dài thì trả theo tháng, theo năm hoặc theo ngày.
+- Cách chúng tôi làm: dùng thử miễn phí 4 giờ không cần thẻ tín dụng, để bạn kiểm hàng; trả theo ngày (bằng điểm) cho người thỉnh thoảng mới dùng; mời một người bạn trả phí thì mỗi người nhận 20 ngày (tính theo gói Cá nhân) — nguồn thời gian miễn phí lâu dài.
+- Cách chúng tôi sắp xếp: thời gian miễn phí đến từ 4 giờ dùng thử và thưởng mời bạn; dùng lâu dài thì trả theo tháng, theo năm hoặc theo ngày.
 
 ## Sáu cách kết nối, một tài khoản
 
@@ -55,9 +55,9 @@ Mỗi kiểu mạng có một cách hợp nhất, nên bạn được cả sáu:
 
 **Sao không cung cấp hàng trăm node như nhà cung cấp proxy?** Nhiều node không có nghĩa là ổn định hơn. Phía sau mỗi khu vực của chúng tôi có nhiều máy, khi kết nối hệ thống tự chọn máy rảnh nhất, bạn không phải tự đo tốc độ chọn node; địa chỉ nào bị chặn thì được thay tự động, địa chỉ trong ứng dụng của bạn không cần sửa.
 
-**Giá có rẻ hơn được không?** Gói Cá nhân 4 đô la mỗi tháng, mua càng lâu giảm càng nhiều (giảm 5% → giảm 10% → giảm 20%); trả theo ngày bằng điểm khoảng 0,32 đô la một ngày; mời một người bạn trả phí thì mỗi người được thêm 20 ngày (tính theo gói Cá nhân), không giới hạn số người. Đăng ký còn được dùng thử miễn phí 24 giờ.
+**Giá có rẻ hơn được không?** Gói Cá nhân 5 đô la mỗi tháng, mua càng lâu giảm càng nhiều (giảm 5% → giảm 10% → giảm 20%); trả theo ngày bằng điểm khoảng 0,32 đô la một ngày; mời một người bạn trả phí thì mỗi người được thêm 20 ngày (tính theo gói Cá nhân), không giới hạn số người. Đăng ký còn được dùng thử miễn phí 4 giờ.
 
-**Làm sao kiểm chứng những gì các bạn nói?** Nhận 24 giờ dùng thử, vào giờ cao điểm buổi tối kết nối khu vực Trung Quốc xem một tập phim trên Tencent Video, kết nối khu vực nước ngoài mở YouTube, rồi kiểm tra nơi đăng ký của IP và một trang kiểm tra IPv6. Danh sách kiểm tra nằm trong "Cách chọn VPN có IP Trung Quốc".
+**Làm sao kiểm chứng những gì các bạn nói?** Nhận 4 giờ dùng thử, vào giờ cao điểm buổi tối kết nối khu vực Trung Quốc xem một tập phim trên Tencent Video, kết nối khu vực nước ngoài mở YouTube, rồi kiểm tra nơi đăng ký của IP và một trang kiểm tra IPv6. Danh sách kiểm tra nằm trong "Cách chọn VPN có IP Trung Quốc".
 
 
 ## Đọc thêm
@@ -70,4 +70,4 @@ Mỗi kiểu mạng có một cách hợp nhất, nên bạn được cả sáu:
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-04) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-04) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-04) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-04) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài

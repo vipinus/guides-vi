@@ -22,7 +22,7 @@ Họ hàng bạn bè tới ở nhà bạn vài ngày, mang thêm máy tính bả
 
 ## Tạm nâng gói tốn bao nhiêu: tính thử
 
-Ba gói có giá theo tỷ lệ 1 : 2 : 4 (Cá nhân 4 đô la, Gia đình 8 đô la, Doanh nghiệp 16 đô la mỗi tháng), nên khi đổi gói thời gian còn lại được quy đổi theo đúng tỷ lệ này và không ai bị thiệt. Ví dụ: còn 30 ngày gói Gia đình, tạm chuyển sang gói Doanh nghiệp thì thành 15 ngày; dùng 3 ngày còn 12 ngày, đổi về gói Gia đình thì thành 24 ngày. So với ở nguyên gói Gia đình suốt (30 − 3 = 27 ngày) thì ít hơn 3 ngày; nói cách khác, 3 ngày đó được tính theo giá gói Doanh nghiệp, và phần bạn trả thêm chỉ là chênh lệch của 3 ngày đó.
+Ba gói có giá theo tỷ lệ 1 : 2 : 4 (Cá nhân 5 đô la, Gia đình 10 đô la, Doanh nghiệp 20 đô la mỗi tháng), nên khi đổi gói thời gian còn lại được quy đổi theo đúng tỷ lệ này và không ai bị thiệt. Ví dụ: còn 30 ngày gói Gia đình, tạm chuyển sang gói Doanh nghiệp thì thành 15 ngày; dùng 3 ngày còn 12 ngày, đổi về gói Gia đình thì thành 24 ngày. So với ở nguyên gói Gia đình suốt (30 − 3 = 27 ngày) thì ít hơn 3 ngày; nói cách khác, 3 ngày đó được tính theo giá gói Doanh nghiệp, và phần bạn trả thêm chỉ là chênh lệch của 3 ngày đó.
 
 Có hai hạn chế: nếu trong 30 phút vừa qua có một giao dịch đã bắt đầu mà chưa hoàn tất thì không đổi được gói; hãy hoàn tất hoặc bỏ giao dịch đó và đợi nửa tiếng rồi đổi. Khi đổi về gói thấp hơn, nếu số thiết bị đang trực tuyến vẫn vượt giới hạn của gói thấp, website sẽ nhắc bạn ngắt kết nối các thiết bị dư trước.
 
@@ -56,4 +56,4 @@ Nếu thiết bị trong nhà ngày càng nhiều và người nhà ai cũng c�
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-09) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-09) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mỗi người bạn bạn mời trả phí sẽ giúp cả hai nhận 20 ngày gói Cá nhân, ưu đãi không có hạn kết thúc
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-09) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-09) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mỗi người bạn bạn mời trả phí sẽ giúp cả hai nhận 20 ngày gói Cá nhân, ưu đãi không có hạn kết thúc

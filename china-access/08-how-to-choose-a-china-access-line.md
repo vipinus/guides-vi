@@ -26,7 +26,7 @@ Vấn đề không phải ở chữ "miễn phí" mà ở cơ cấu chi phí. B�
 
 Các tiện ích trình duyệt "về Trung Quốc" miễn phí còn một điểm mù nữa: chúng chỉ proxy các yêu cầu web của trình duyệt, còn trình phát video, ứng dụng và DNS hệ thống thì không đi qua, vì vậy cảnh "trang web mở được mà video không phát" mới phổ biến đến thế.
 
-Thỉnh thoảng tra cứu một chút thì miễn phí là đủ. Còn để theo dõi phim bộ, nghe nhạc và dùng ngân hàng trực tuyến, thời gian mà một đường truyền trả phí ổn định giúp bạn tiết kiệm đáng giá hơn tiền thuê bao nhiều. Hãy nhận gói dùng thử 24 giờ trước, thử một lần vào giờ cao điểm buổi tối, rồi hãy quyết định.
+Thỉnh thoảng tra cứu một chút thì miễn phí là đủ. Còn để theo dõi phim bộ, nghe nhạc và dùng ngân hàng trực tuyến, thời gian mà một đường truyền trả phí ổn định giúp bạn tiết kiệm đáng giá hơn tiền thuê bao nhiều. Hãy nhận gói dùng thử 4 giờ trước, thử một lần vào giờ cao điểm buổi tối, rồi hãy quyết định.
 
 ## Du học sinh, người đi lại và gia đình nên thiết lập thế nào
 
@@ -53,4 +53,4 @@ Thỉnh thoảng tra cứu một chút thì miễn phí là đủ. Còn để th
 **Dùng Clash được không?** Được. LeoTun cung cấp link đăng ký sing-box, link đăng ký Clash và link chia sẻ hysteria2. Với Clash Meta, Clash Verge, FlClash, Stash và các ứng dụng tương tự, bấm nút "Đăng ký Clash" rồi dán URL vào danh sách đăng ký của ứng dụng; không cần công cụ chuyển đổi link đăng ký, và đừng dùng link chia sẻ. Clash bản gốc và Clash for Windows không dùng được, vì lõi của chúng không có hysteria2. Link đăng ký này mặc định đưa mọi thứ trừ mạng nội bộ đi qua node, nên xem video Trung Quốc không phải chỉnh gì; nếu bạn tự thêm quy tắc thì đừng đặt tên miền Trung Quốc là "direct" (kết nối thẳng).
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-08) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-08) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-08) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-08) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài

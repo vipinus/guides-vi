@@ -47,4 +47,4 @@ Những điều cần lưu ý khác với ngân hàng trực tuyến, xem [04 ·
 Không ít trường cấp cho sinh viên VPN của trường để vào cơ sở dữ liệu thư viện. Đó là chuyện khác với nội dung bài này, và hai thứ không xung đột: VPN của trường giải quyết chuyện "bạn có quyền dùng cơ sở dữ liệu này không", nhưng trước hết bạn phải kết nối được tới máy chủ của trường. Hai thứ dùng chồng lên nhau được.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-15) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-15) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-15) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-15) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài

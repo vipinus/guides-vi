@@ -6,7 +6,7 @@ Tài khoản LeoTun có ba gói: Cá nhân, Gia đình và Doanh nghiệp. Chún
 
 | | Cá nhân | Gia đình | Doanh nghiệp |
 |---|---|---|---|
-| Giá mỗi tháng | 4 đô la | 8 đô la | 16 đô la |
+| Giá mỗi tháng | 5 đô la | 10 đô la | 20 đô la |
 | Hệ số giá | 1x | 2x | 4x |
 | Thiết bị trực tuyến cùng lúc | 2 | 4 | 8 |
 | Khu vực / dữ liệu / cách kết nối | Tất cả / không giới hạn / tất cả | Như trên | Như trên |
@@ -47,14 +47,14 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 | Doanh nghiệp | Từ 3 tháng | Từ 6 tháng | Từ 12 tháng |
 
 - Mua theo tháng thì mỗi lần tối đa 12 tháng; mua theo năm thì mỗi lần tối đa 4 năm. Mua theo tháng mà chạm mốc thì cũng được giảm như vậy, không bắt buộc chọn "theo năm".
-- Vài con số thực tế: Cá nhân 12 tháng 45,60 đô la, 4 năm 153,60 đô la; Gia đình 6 tháng 45,60 đô la, 2 năm 153,60 đô la; Doanh nghiệp 3 tháng 45,60 đô la, 1 năm 153,60 đô la.
+- Vài con số thực tế: Cá nhân 12 tháng 57 đô la, 4 năm 192 đô la; Gia đình 6 tháng 57 đô la, 2 năm 192 đô la; Doanh nghiệp 3 tháng 57 đô la, 1 năm 192 đô la.
 - Nếu gia hạn khi thời hạn chưa hết, thời gian mua thêm được cộng nối sau ngày hết hạn cũ, không ăn vào số ngày còn lại.
 
 ## Phương thức thanh toán
 
 | Phương thức | Lưu ý |
 |---|---|
-| Alipay | Thanh toán bằng nhân dân tệ, quy đổi từ giá đô la Mỹ theo tỷ giá thực tế |
+| Alipay | Thanh toán bằng nhân dân tệ, quy đổi từ giá đô la Mỹ theo tỷ giá cố định 1 đô la = 7 tệ (theo tháng: Cá nhân ¥35, Gia đình ¥70, Doanh nghiệp ¥140) |
 | PayPal | Trả bằng đô la Mỹ; nhận cả thẻ ngân hàng phát hành ở Trung Quốc |
 | Thẻ tín dụng | Visa, Mastercard, AMEX |
 | Điểm | Trừ vào số điểm bạn đã nạp; dùng được để mua theo ngày |
@@ -81,11 +81,11 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 
 | | Cá nhân | Gia đình | Doanh nghiệp |
 |---|---|---|---|
-| Dùng thử miễn phí | 24 giờ | 12 giờ | 6 giờ |
+| Dùng thử miễn phí | 4 giờ | 2 giờ | 1 giờ |
 | Mỗi lần bạn được mời thanh toán lần đầu (bạn và bạn của bạn mỗi người nhận) | +20 ngày | +10 ngày | +5 ngày |
 | Thời gian dịch vụ kèm theo khi mua router (các mẫu 24 tháng) | 24 tháng | 12 tháng | 6 tháng |
 
-- Dùng thử: đăng ký xong thì nhận trên trang chủ, không cần thẻ tín dụng; mã dùng thử được gửi vào email, nhập mã 6 chữ số để kích hoạt; mỗi tài khoản một lần. Tài khoản mới ở gói Cá nhân nên thông thường bạn nhận được 24 giờ.
+- Dùng thử: đăng ký xong thì nhận trên trang chủ, không cần thẻ tín dụng; mã dùng thử được gửi vào email, nhập mã 6 chữ số để kích hoạt; mỗi tài khoản một lần. Tài khoản mới ở gói Cá nhân nên thông thường bạn nhận được 4 giờ.
 - Mời bạn: sau khi bạn bè đăng ký qua link giới thiệu của bạn và hoàn tất lần thanh toán đầu tiên, thời hạn của bạn và của bạn bè đều được cộng thẳng, không giới hạn số người. Số ngày của mỗi bên được tính theo gói mà người đó đang dùng lúc đó.
 - Các con số này đều được quy đổi tỷ lệ nghịch với hệ số giá, nên đổi sang gói nào thì giá trị bạn nhận được vẫn như nhau.
 
@@ -102,7 +102,7 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 
 **Một người dùng có nên lên gói Gia đình không?** Không cần. Ba gói có cùng tính năng và đều dùng được router; 2 thiết bị trực tuyến cùng lúc của gói Cá nhân đủ cho một điện thoại cộng một máy tính. Chỉ nên cân nhắc gói Gia đình nếu nhà có router mà ra ngoài bạn còn mang theo hai thiết bị.
 
-**Sao dùng Alipay lại thấy số tiền bằng nhân dân tệ?** Giá được định bằng đô la Mỹ, Alipay quy đổi sang nhân dân tệ theo tỷ giá thực tế lúc thanh toán, nên số tiền nhân dân tệ dao động chút ít theo tỷ giá.
+**Sao dùng Alipay lại thấy số tiền bằng nhân dân tệ?** Giá được định bằng đô la Mỹ, Alipay quy đổi sang nhân dân tệ theo tỷ giá cố định 1 đô la = 7 tệ: theo tháng là Cá nhân ¥35, Gia đình ¥70, Doanh nghiệp ¥140, còn 25 điểm là ¥56; số tiền không dao động theo tỷ giá.
 
 **Điểm và gói tháng dùng chung được không?** Được. Điểm cứ để đó không hết hạn; khi gia hạn, chọn phương thức thanh toán "Điểm" thì trừ vào số dư, chọn phương thức khác thì trả tiền như bình thường.
 
@@ -117,4 +117,4 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 - [Câu hỏi thường gặp và liên hệ hỗ trợ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-08)
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-08) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-08) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mỗi người bạn bạn mời trả phí sẽ giúp cả hai nhận 20 ngày gói Cá nhân, ưu đãi không có hạn kết thúc
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-08) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-08) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mỗi người bạn bạn mời trả phí sẽ giúp cả hai nhận 20 ngày gói Cá nhân, ưu đãi không có hạn kết thúc

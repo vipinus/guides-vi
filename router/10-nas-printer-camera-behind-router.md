@@ -45,4 +45,4 @@ Cho nó bắt Wi-Fi của router phía trên hoặc của modem, tách khỏi ro
 **Có giữ một thiết bị luôn không đi VPN được không?** Được, cắm nó vào router phía trên hoặc modem. Trang quản trị cũng có thể chuyển cả router sang chế độ "Direct" (đi thẳng), nhưng như vậy sẽ áp dụng cho mọi người cùng lúc.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-10) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-10) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, hiệu lực lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-10) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-10) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, hiệu lực lâu dài

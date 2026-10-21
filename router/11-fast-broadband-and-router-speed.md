@@ -39,15 +39,15 @@ TV và máy tính để bàn thì cắm dây được chỗ nào hay chỗ đó.
 
 ## Biết trước khi mua thế nào
 
-Đăng ký và nhận 24 giờ dùng thử miễn phí, không cần thẻ tín dụng. Kết nối vào khung giờ bạn hay dùng nhất, chẳng hạn buổi tối, và xem một video YouTube chất lượng HD. Những gì bạn thấy trên điện thoại hay laptop gần với những gì router sẽ cho bạn. Sau đó hãy quyết định chuyện router.
+Đăng ký và nhận 4 giờ dùng thử miễn phí, không cần thẻ tín dụng. Kết nối vào khung giờ bạn hay dùng nhất, chẳng hạn buổi tối, và xem một video YouTube chất lượng HD. Những gì bạn thấy trên điện thoại hay laptop gần với những gì router sẽ cho bạn. Sau đó hãy quyết định chuyện router.
 
 ## Câu hỏi thường gặp
 
-**Sao không nói luôn là bao nhiêu Mbps?** Vì con số khác nhau với mỗi người và mỗi giờ. Chúng tôi cam kết xem YouTube mượt, kể cả giờ cao điểm buổi tối, với điều kiện băng thông rộng của bạn tốt: China Unicom ở miền Bắc hoặc China Telecom ở miền Nam Trung Quốc. Ngoại lệ là băng thông rộng dùng chung của khu chung cư (loại mạng do ban quản lý khu dân cư chia lại). Nhận 24 giờ dùng thử miễn phí và tự thử một lần là cách đo chính xác nhất.
+**Sao không nói luôn là bao nhiêu Mbps?** Vì con số khác nhau với mỗi người và mỗi giờ. Chúng tôi cam kết xem YouTube mượt, kể cả giờ cao điểm buổi tối, với điều kiện băng thông rộng của bạn tốt: China Unicom ở miền Bắc hoặc China Telecom ở miền Nam Trung Quốc. Ngoại lệ là băng thông rộng dùng chung của khu chung cư (loại mạng do ban quản lý khu dân cư chia lại). Nhận 4 giờ dùng thử miễn phí và tự thử một lần là cách đo chính xác nhất.
 
 **Trang đo tốc độ báo con số thấp mà video vẫn xem mượt?** Chuyện bình thường. Máy chủ đo tốc độ cũng có lúc bận lúc rảnh, hai lần đo cách nhau một phút có thể chênh gấp đôi. Hãy đánh giá bằng chính việc bạn muốn làm.
 
 **Router đắt hơn có nhanh hơn không?** Chỉ khi router là điểm nghẽn, chẳng hạn mẫu mini trên mạng tốc độ cao. Khi điểm nghẽn là chặng qua biên giới thì đổi router chẳng ích gì, đổi khu vực mới có tác dụng.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-11) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-11) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-11) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-11) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài

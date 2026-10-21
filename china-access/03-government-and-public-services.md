@@ -26,4 +26,4 @@ Bản thân CHSI không đặc biệt khắt khe với IP nước ngoài; chậm
 Các việc hành chính thường chỉ phát sinh một hai lần mỗi năm, lần nào cũng đến sát giờ mới đi tìm đường truyền thì rất mất công. Thiết lập sẵn đường truyền về Trung Quốc thành một điểm vào cố định, xong việc thì chuyển lại, sẽ đỡ phiền hơn là lần nào cũng cấu hình lại từ đầu.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-03) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-03) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 24 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-03) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-03) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 4 giờ; mời một người bạn trả phí thì mỗi người nhận 20 ngày gói Cá nhân, ưu đãi áp dụng lâu dài
