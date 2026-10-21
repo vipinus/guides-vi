@@ -75,7 +75,7 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 - Nạp điểm: 25 điểm giá 8 đô la, mỗi lần chọn được 25–150 điểm. Điểm không bao giờ hết hạn.
 - Mức tiêu mỗi ngày: Cá nhân 1 điểm, Gia đình 2 điểm, Doanh nghiệp 4 điểm. Một ngày gói Cá nhân khoảng 0,32 đô la.
 - Điểm cũng gia hạn được theo tháng (tính 30 ngày) hoặc theo năm (tính 365 ngày), nhưng dùng điểm thì không được giảm giá.
-- Hợp với ai: người mỗi tháng chỉ dùng chừng mười ngày, hoặc chỉ cần vài ngày trước khi quay về Trung Quốc. Nếu ngày nào cũng dùng thì đăng ký theo tháng lợi hơn; với gói Cá nhân, dùng quá 12 ngày một tháng thì nên đăng ký theo tháng.
+- Hợp với ai: người mỗi tháng chỉ dùng chừng mười ngày, hoặc chỉ cần vài ngày trước khi quay về Trung Quốc. Nếu ngày nào cũng dùng thì đăng ký theo tháng lợi hơn; với gói Cá nhân, dùng quá 15 ngày một tháng thì nên đăng ký theo tháng.
 
 ## Dùng thử miễn phí và thưởng mời bạn: ngang giá trị ở mọi gói
 
@@ -93,7 +93,7 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 
 - Trong 24 giờ trước khi hết hạn, bạn sẽ nhận email nhắc "Dịch vụ sắp hết hạn".
 - Hết hạn rồi thì không cách kết nối nào kết nối được; thiết bị trong Mạng riêng ngoại tuyến trong vài phút, và mã QR của Hiddify chỉ tạo lại được sau khi gia hạn.
-- Một hai ngày sau khi hết hạn, bạn sẽ nhận email "Dịch vụ đã hết hạn"; ai đủ điều kiện thì trong đó có nút nhận thưởng không cần đăng nhập, cho 24 / 12 / 6 giờ tùy gói; link có hiệu lực 7 ngày và chỉ bấm được một lần.
+- Một hai ngày sau khi hết hạn, bạn sẽ nhận email "Dịch vụ đã hết hạn"; ai đủ điều kiện thì trong đó có nút nhận thưởng không cần đăng nhập, cho 4 / 2 / 1 giờ tùy gói; link có hiệu lực 7 ngày và chỉ bấm được một lần.
 - Gia hạn xong dịch vụ được khôi phục ngay; thiết bị Mạng riêng chỉ cần bấm đăng nhập lại một lần mỗi máy, cài đặt lối ra vẫn được giữ.
 
 ## Câu hỏi thường gặp
