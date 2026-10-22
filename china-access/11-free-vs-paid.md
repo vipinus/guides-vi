@@ -26,7 +26,7 @@ Một phép thử đơn giản: nếu nó rớt mà bạn thấy bực thì đã
 
 Gói Cá nhân của LeoTun giá 5 đô la Mỹ mỗi tháng, gồm 24 khu vực, 2 thiết bị trực tuyến cùng lúc và mọi cách kết nối — AnyConnect / OpenVPN / Hiddify / Web Proxy — và cũng dùng được với router. Gói Gia đình và Doanh nghiệp lần lượt bằng 2 lần và 4 lần giá gói Cá nhân. Khu vực, đường truyền và cách kết nối ở ba gói y hệt nhau, chỉ khác số thiết bị trực tuyến cùng lúc (4 và 8).
 
-Không muốn mua theo tháng thì có hai cách: nhận 4 giờ dùng thử miễn phí trước (không cần thẻ tín dụng, mỗi tài khoản một lần) và thử một lần vào giờ cao điểm buổi tối; hoặc trả theo ngày. Sau khi nạp điểm, gói Cá nhân tốn 1 điểm mỗi ngày, 25 điểm giá 10 đô la Mỹ, tính ra khoảng 0,4 đô la Mỹ một ngày; chỉ mua vài ngày trước chuyến về Trung Quốc là rất hợp.
+Không muốn mua theo tháng thì có hai cách: nhận 4 giờ dùng thử miễn phí trước (không cần thẻ tín dụng, mỗi tài khoản một lần) và thử một lần vào giờ cao điểm buổi tối; hoặc trả theo ngày. Sau khi nạp điểm, gói Cá nhân tốn 1 điểm mỗi ngày, 28 điểm giá 10 đô la Mỹ, tính ra khoảng 0,36 đô la Mỹ một ngày; chỉ mua vài ngày trước chuyến về Trung Quốc là rất hợp.
 
 Khi người bạn bạn mời đăng ký và thanh toán lần đầu, bạn và bạn bè mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), không giới hạn số người. Đây là nguồn thời gian miễn phí lâu dài.
 
