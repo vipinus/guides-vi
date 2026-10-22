@@ -55,7 +55,7 @@ Mỗi kiểu mạng có một cách hợp nhất, nên bạn được cả sáu:
 
 **Sao không cung cấp hàng trăm node như nhà cung cấp proxy?** Nhiều node không có nghĩa là ổn định hơn. Phía sau mỗi khu vực của chúng tôi có nhiều máy, khi kết nối hệ thống tự chọn máy rảnh nhất, bạn không phải tự đo tốc độ chọn node; địa chỉ nào bị chặn thì được thay tự động, địa chỉ trong ứng dụng của bạn không cần sửa.
 
-**Giá có rẻ hơn được không?** Gói Cá nhân 5 đô la mỗi tháng, mua càng lâu giảm càng nhiều (giảm 5% → giảm 10% → giảm 20%); trả theo ngày bằng điểm khoảng 0,32 đô la một ngày; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), không giới hạn số người. Đăng ký còn được dùng thử miễn phí 4 giờ.
+**Giá có rẻ hơn được không?** Gói Cá nhân 5 đô la mỗi tháng, mua càng lâu giảm càng nhiều (giảm 5% → giảm 10% → giảm 20%); trả theo ngày bằng điểm khoảng 0,4 đô la một ngày; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), không giới hạn số người. Đăng ký còn được dùng thử miễn phí 4 giờ.
 
 **Làm sao kiểm chứng những gì các bạn nói?** Nhận 4 giờ dùng thử, vào giờ cao điểm buổi tối kết nối khu vực Trung Quốc xem một tập phim trên Tencent Video, kết nối khu vực nước ngoài mở YouTube, rồi kiểm tra nơi đăng ký của IP và một trang kiểm tra IPv6. Danh sách kiểm tra nằm trong "Cách chọn VPN có IP Trung Quốc".
 

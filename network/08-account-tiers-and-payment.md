@@ -72,10 +72,10 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 
 ## Điểm và trả theo ngày
 
-- Nạp điểm: 25 điểm giá 8 đô la, mỗi lần chọn được 25–150 điểm. Điểm không bao giờ hết hạn.
-- Mức tiêu mỗi ngày: Cá nhân 1 điểm, Gia đình 2 điểm, Doanh nghiệp 4 điểm. Một ngày gói Cá nhân khoảng 0,32 đô la.
+- Nạp điểm: 25 điểm giá 10 đô la, mỗi lần chọn được 25–150 điểm. Điểm không bao giờ hết hạn.
+- Mức tiêu mỗi ngày: Cá nhân 1 điểm, Gia đình 2 điểm, Doanh nghiệp 4 điểm. Một ngày gói Cá nhân khoảng 0,4 đô la.
 - Điểm cũng gia hạn được theo tháng (tính 30 ngày) hoặc theo năm (tính 365 ngày), nhưng dùng điểm thì không được giảm giá.
-- Hợp với ai: người mỗi tháng chỉ dùng chừng mười ngày, hoặc chỉ cần vài ngày trước khi quay về Trung Quốc. Nếu ngày nào cũng dùng thì đăng ký theo tháng lợi hơn; với gói Cá nhân, dùng quá 15 ngày một tháng thì nên đăng ký theo tháng.
+- Hợp với ai: người mỗi tháng chỉ dùng chừng mười ngày, hoặc chỉ cần vài ngày trước khi quay về Trung Quốc. Nếu ngày nào cũng dùng thì đăng ký theo tháng lợi hơn; với gói Cá nhân, dùng quá 12 ngày một tháng thì nên đăng ký theo tháng.
 
 ## Dùng thử miễn phí và thưởng mời bạn ở từng gói
 
@@ -102,7 +102,7 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 
 **Một người dùng có nên lên gói Gia đình không?** Không cần. Ba gói có cùng tính năng và đều dùng được router; 2 thiết bị trực tuyến cùng lúc của gói Cá nhân đủ cho một điện thoại cộng một máy tính. Chỉ nên cân nhắc gói Gia đình nếu nhà có router mà ra ngoài bạn còn mang theo hai thiết bị.
 
-**Sao dùng Alipay lại thấy số tiền bằng nhân dân tệ?** Giá được định bằng đô la Mỹ, Alipay quy đổi sang nhân dân tệ theo tỷ giá cố định 1 đô la = 7 tệ: theo tháng là Cá nhân ¥35, Gia đình ¥70, Doanh nghiệp ¥140, còn 25 điểm là ¥56; số tiền không dao động theo tỷ giá.
+**Sao dùng Alipay lại thấy số tiền bằng nhân dân tệ?** Giá được định bằng đô la Mỹ, Alipay quy đổi sang nhân dân tệ theo tỷ giá cố định 1 đô la = 7 tệ: theo tháng là Cá nhân ¥35, Gia đình ¥70, Doanh nghiệp ¥140, còn 25 điểm là ¥70; số tiền không dao động theo tỷ giá.
 
 **Điểm và gói tháng dùng chung được không?** Được. Điểm cứ để đó không hết hạn; khi gia hạn, chọn phương thức thanh toán "Điểm" thì trừ vào số dư, chọn phương thức khác thì trả tiền như bình thường.
 

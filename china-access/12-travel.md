@@ -29,7 +29,7 @@ Mã xác minh qua SMS không tới thì không liên quan tới đường truy�
 
 ## Câu hỏi thường gặp
 
-**Chuyến đi chỉ vài ngày. Có cần mua một tháng không?** Không. Nhận gói dùng thử miễn phí 4 giờ, hoặc nạp điểm và trả theo ngày: gói Cá nhân tốn 1 điểm mỗi ngày, khoảng 0,32 đô la Mỹ một ngày, rất hợp cho vài ngày.
+**Chuyến đi chỉ vài ngày. Có cần mua một tháng không?** Không. Nhận gói dùng thử miễn phí 4 giờ, hoặc nạp điểm và trả theo ngày: gói Cá nhân tốn 1 điểm mỗi ngày, khoảng 0,4 đô la Mỹ một ngày, rất hợp cho vài ngày.
 
 **Điện thoại và laptop kết nối cùng lúc được không?** Được. Tùy gói, một tài khoản có 2 / 4 / 8 thiết bị trực tuyến cùng lúc (Cá nhân / Gia đình / Doanh nghiệp), gói Cá nhân vừa đúng một điện thoại cộng một laptop.
 
