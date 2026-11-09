@@ -21,11 +21,12 @@ Mỗi nhà mạng ra khỏi Trung Quốc bằng một đường khác nhau, ch�
 
 **3. Bản thân router**
 Lưu lượng phải được mã hóa trước khi vào đường hầm, và đó là việc của bộ xử lý trong router. Các mẫu chênh nhau nhiều:
-- GL-MT300N-V2 (mini): cổng 100 Mbps. Đủ xem 1080p trên điện thoại hoặc laptop, không xứng với mạng tốc độ cao
 - GL-MT3000 (di động): đủ cho gia đình nhỏ. Router đầu tiên hợp với đa số người
+- GL-AXT1800 (di động): cổng gigabit. Để cắm dây hai thiết bị khi đi xa
+- GL-MT3600BE (di động): Wi‑Fi 7 và hai cổng 2.5G. Wi‑Fi nhanh nhất trong các mẫu mang theo được
 - GL-MT6000 (để bàn): cổng 2.5G. Cho nhiều thiết bị, 4K và máy chơi game
 
-Mạng nhanh và nhà đông người dùng thì chọn MT3000 hoặc MT6000, đừng chọn mẫu mini.
+Mạng nhanh và nhà đông người dùng thì chọn MT3000 hoặc MT6000.
 
 **4. Vài mét cuối cùng trong nhà**
 TV và máy tính để bàn thì cắm dây được chỗ nào hay chỗ đó. Wi-Fi trong chung cư đông đúc bị nhiễu nặng, và rất nhiều trường hợp "đường truyền chậm" hóa ra nằm ngay trong nhà.
