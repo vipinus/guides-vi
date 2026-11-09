@@ -31,7 +31,7 @@ Router giải quyết chuyện "thiết bị quá nhiều, có cái lại không
 | GL-MT3600BE | Di động | 350 đô la | 2 năm dịch vụ gói Cá nhân | Wi‑Fi 7 hai băng tần, hai cổng 2.5G, cỡ tương đương GL-MT3000 | Điện thoại và laptop đã hỗ trợ Wi‑Fi 7, muốn Wi‑Fi nhanh hơn trong một thiết bị vẫn mang theo được |
 | GL-MT6000 | Để bàn | 400 đô la | 2 năm dịch vụ gói Cá nhân | Hai cổng 2.5G cộng bốn cổng gigabit, ăng-ten rời, xử lý mạnh nhất | Nhà rộng, nhiều thiết bị (một chục trở lên), băng thông rộng trên 1 Gbps, xem 4K và chơi game console, hoặc văn phòng nhỏ. Để cố định một chỗ làm router duy nhất |
 
-Số tháng kèm theo tính theo gói Cá nhân; gói Gia đình được một nửa, Doanh nghiệp được một phần tư, giá trị như nhau. Miễn phí vận chuyển toàn cầu, thường 3–14 ngày, đổi trả trong 30 ngày.
+Số tháng kèm theo tính theo gói Cá nhân; gói Gia đình được một nửa, Doanh nghiệp được một phần tư, giá trị như nhau. Miễn phí vận chuyển toàn cầu, thường 3–14 ngày. Bảo hành sáu tháng; router không được hoàn tiền.
 
 ### Chọn nhanh theo tình huống
 
