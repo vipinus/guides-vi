@@ -8,7 +8,7 @@ Ngôn ngữ khác: [English](https://github.com/vipinus/guides-en) · [简体中
 
 | Cách nhận | Bạn được gì |
 |---|---|
-| Nhận gói dùng thử miễn phí sau khi đăng ký | 4 giờ đủ mọi tính năng, không cần thẻ tín dụng |
+| Nhận gói dùng thử miễn phí sau khi đăng ký | 30 phút đủ mọi tính năng, không cần thẻ tín dụng |
 | Mời một người bạn đăng ký và thanh toán lần đầu | Bạn và bạn bè mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân, vì gói này dùng 1 điểm mỗi ngày), cộng thẳng vào số dư điểm, mỗi người bạn được tính một lần, không giới hạn số người |
 
 Website: <https://www.leotun.com/vi?utm_source=github&utm_content=readme> · Liên hệ: <https://www.leotun.com/vi/contact?utm_source=github&utm_content=readme>
