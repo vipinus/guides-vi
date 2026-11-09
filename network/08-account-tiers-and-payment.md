@@ -93,7 +93,7 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 
 - Trong 24 giờ trước khi hết hạn, bạn sẽ nhận email nhắc "Dịch vụ sắp hết hạn".
 - Hết hạn rồi thì không cách kết nối nào kết nối được; thiết bị trong Mạng riêng ngoại tuyến trong vài phút, và mã QR của Hiddify chỉ tạo lại được sau khi gia hạn.
-- Một hai ngày sau khi hết hạn, bạn sẽ nhận email "Dịch vụ đã hết hạn"; ai đủ điều kiện thì trong đó có nút nhận thưởng không cần đăng nhập, cho 30 phút; link có hiệu lực 7 ngày và chỉ bấm được một lần.
+- Một hai ngày sau khi hết hạn, bạn sẽ nhận email nhắc "Dịch vụ đã hết hạn".
 - Gia hạn xong dịch vụ được khôi phục ngay; thiết bị Mạng riêng chỉ cần bấm đăng nhập lại một lần mỗi máy, cài đặt lối ra vẫn được giữ.
 
 ## Câu hỏi thường gặp
