@@ -83,7 +83,7 @@ Ba gói dùng chung một thang giảm giá: giảm 5% → giảm 10% → giảm
 |---|---|---|---|
 | Dùng thử miễn phí | 30 phút | 30 phút | 30 phút |
 | Mỗi lần bạn được mời thanh toán lần đầu (bạn và bạn của bạn mỗi người nhận) | 15 điểm | 15 điểm | 15 điểm |
-| Thời gian dịch vụ kèm theo khi mua router (các mẫu 3 năm) | 3 năm | 18 tháng | 9 tháng |
+| Thời gian dịch vụ kèm theo khi mua router (các mẫu 2 năm) | 2 năm | 12 tháng | 6 tháng |
 
 - Dùng thử: đăng ký xong thì nhận trên trang chủ, không cần thẻ tín dụng; mã dùng thử được gửi vào email, nhập mã 6 chữ số để kích hoạt; mỗi tài khoản một lần; gói nào cũng là 30 phút.
 - Mời bạn: sau khi bạn bè đăng ký qua link giới thiệu của bạn và hoàn tất lần thanh toán đầu tiên, bạn và bạn bè mỗi người nhận 15 điểm cộng thẳng vào số dư điểm, như nhau ở mọi gói và không giới hạn số người. Gói Cá nhân dùng 1 điểm mỗi ngày nên 15 điểm khoảng 15 ngày, có thể dùng để gia hạn theo ngày.
