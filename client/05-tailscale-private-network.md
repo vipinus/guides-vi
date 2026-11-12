@@ -29,7 +29,7 @@ Mục Mạng riêng dùng Tailscale (một công cụ kết nối mạng xây tr
 ## Hết hạn và số thiết bị
 
 - Hiệu lực đăng nhập của thiết bị đi theo ngày hết hạn của tài khoản; hết hạn thì thiết bị ngoại tuyến trong vài phút; gia hạn xong chỉ cần đăng nhập lại một lần. Không phải cài lại.
-- Số thiết bị trực tuyến cùng lúc tùy theo gói (Cá nhân 2, Gia đình 4, Doanh nghiệp 8), hạn mức dùng chung với các cách kết nối khác; khi vượt giới hạn của gói, bạn có thể tạm nâng hạng tài khoản (thời gian còn lại được quy đổi ngang giá theo giá gói) rồi dùng xong đổi lại.
+- Số thiết bị trực tuyến cùng lúc tùy theo gói (Cơ bản 2, Tiêu chuẩn 4, Chuyên nghiệp 8, Cao cấp 16, Doanh nghiệp 32, Tối thượng 64), hạn mức dùng chung với các cách kết nối khác; khi vượt giới hạn của gói, bạn có thể tạm nâng hạng tài khoản (thời gian còn lại được quy đổi ngang giá theo giá gói) rồi dùng xong đổi lại.
 
 ## Hai trường hợp nên dùng cách khác
 
@@ -37,4 +37,4 @@ Mục Mạng riêng dùng Tailscale (một công cụ kết nối mạng xây tr
 - Trên mạng trường học / công ty hạn chế UDP: WireGuard chạy trên UDP nên chỉ đi qua được relay (máy chủ chuyển tiếp của Tailscale), rất chậm; hãy chuyển sang AnyConnect.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=client-05) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=client-05) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=client-05) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=client-05) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

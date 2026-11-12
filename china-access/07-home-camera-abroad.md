@@ -24,7 +24,7 @@ Lưu ý ứng dụng cùng tên trên kho ứng dụng nước ngoài thường 
 2. Điện thoại hoặc máy tính ở nước ngoài cũng vào cùng mạng riêng đó.
 3. Từ đó thiết bị ở nước ngoài truy cập thẳng NVR bằng địa chỉ LAN ở nhà, y như bạn đang ở nhà.
 
-"Mạng riêng" của LeoTun chính là loại mạng riêng này. Một tài khoản cài trên bao nhiêu thiết bị cũng được, số thiết bị trực tuyến cùng lúc theo gói: Cá nhân 2 thiết bị, Gia đình 4 thiết bị, Doanh nghiệp 8 thiết bị. Một thiết bị ở nhà cộng vài thiết bị ở nước ngoài thì vừa khít gói Gia đình.
+"Mạng riêng" của LeoTun chính là loại mạng riêng này. Một tài khoản cài trên bao nhiêu thiết bị cũng được, số thiết bị trực tuyến cùng lúc theo gói: Cơ bản 2, Tiêu chuẩn 4, Chuyên nghiệp 8, Cao cấp 16, Doanh nghiệp 32, Tối thượng 64 thiết bị. Một thiết bị ở nhà cộng vài thiết bị ở nước ngoài thì vừa khít gói Gia đình.
 
 ## Trường hợp ba: tài khoản không khớp
 
@@ -35,4 +35,4 @@ Thiết bị mua ở Trung Quốc được ràng buộc với tài khoản Trung
 Hình ảnh từ camera ở nhà chỉ nên đi lại giữa thiết bị của bạn và nhà bạn. Cách dùng mạng riêng ưu tiên kết nối trực tiếp giữa hai đầu, chỉ khi không nối thẳng được mới chuyển tiếp qua máy trung gian, và hình ảnh không được lưu trên máy chủ nào; còn cách dùng đám mây của hãng thì đi qua hãng. Dù cách nào cũng đừng dùng "công cụ xuyên mạng nội bộ" không rõ nguồn gốc, vì như thế chẳng khác gì giao camera nhà mình cho người khác.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-07) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-07) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-07) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-07) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

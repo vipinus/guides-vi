@@ -11,7 +11,7 @@ Sau khi cài firmware của trang này hoặc mua máy cài sẵn, việc duy nh
 | Cập nhật thành phần và danh sách chia luồng | Kiểm tra khi khởi động và tải bản cập nhật nếu có, **có hiệu lực từ lần khởi động sau**; danh sách trang bị chặn dùng cho chiều từ Trung Quốc ra nước ngoài cũng tự cập nhật mỗi ngày | Không cần gì; địa chỉ đường truyền thay đổi hay trang web mới thêm vào danh sách đều được nhận tự động |
 | Mã quốc gia Wi‑Fi | Lên mạng xong thì nhận biết đang ở nước nào và tự đặt công suất phát, kênh sóng | Ngay sau khi cài firmware, **cắm dây mạng trước** để nó lên mạng một lần; trước khi lên mạng sóng yếu hơn là bình thường |
 | Xử lý khi hết hạn | Tài khoản hết hạn thì ngừng đi qua VPN; mạng tại chỗ vẫn chạy như thường | Gia hạn xong tự hoạt động lại, không cần đăng nhập lại |
-| Ràng buộc router | Lần đăng nhập đầu tiên ghi router này vào tài khoản | Hủy ràng buộc trên website trước khi đổi router |
+| Ràng buộc router | Lần đăng nhập đầu tiên ghi router này vào tài khoản | Đã liên kết đủ số thì hủy liên kết router cũ trên website trước khi đổi |
 
 Chỉ khi nâng cấp phiên bản lớn của cả firmware mới phải cài file sysupgrade. Mỗi năm chỉ vài lần, và website sẽ thông báo.
 
@@ -39,11 +39,11 @@ Chỉ khi nâng cấp phiên bản lớn của cả firmware mới phải cài f
 
 ## Câu hỏi thường gặp
 
-**Gói Cá nhân có dùng router được không?** Được. Cá nhân, Gia đình và Doanh nghiệp đều hỗ trợ router, không cần đổi gói.
+**Gói Cơ bản có dùng router được không?** Được. Cả sáu gói trả phí đều hỗ trợ router, không giới hạn tốc độ, không cần đổi gói; gói Cơ bản liên kết được 1 router, muốn nhiều hơn thì nâng gói.
 
 **Router chiếm mấy suất thiết bị?** Một; các thiết bị phía sau nó không tính.
 
 **Firmware có cửa hậu không?** Nó được biên dịch từ OpenWrt, chỉ thêm thành phần kết nối VPN và quy tắc chia luồng; VPN chỉ ghi lại thời lượng kết nối và tổng lưu lượng để tính phí.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-08) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-08) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), hiệu lực lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-08) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-08) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), hiệu lực lâu dài

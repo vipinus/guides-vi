@@ -16,7 +16,7 @@
 
 ## Gia hạn, đổi gói hay đổi mật khẩu có phải nhập lại không
 
-- **Gia hạn hoặc đổi gói (Cá nhân / Gia đình / Doanh nghiệp)**: Không. Cấu hình hiện có vẫn dùng tiếp được.
+- **Gia hạn hoặc đổi gói (Cơ bản, Tiêu chuẩn, Chuyên nghiệp…)**: Không. Cấu hình hiện có vẫn dùng tiếp được.
 - **Đổi mật khẩu**: Cấu hình cũ mất hiệu lực ngay; hãy quét lại mã QR. Nếu mất điện thoại hoặc lộ link, hãy dùng cách này để thu hồi quyền truy cập.
 - **Tài khoản hết hạn**: Cấu hình trả về lỗi 401. Gia hạn xong không cần cấu hình mới, chỉ việc kết nối lại.
 - **Nhập trước tháng 9/2026**: Thiếu quy tắc chặn IPv6, nên xem video Trung Quốc từ nước ngoài sẽ gặp thông báo giới hạn bản quyền. Xóa đi rồi nhập lại; xem [bài 03](03-ipv6-and-dns-leak.md).
@@ -26,4 +26,4 @@
 Báo cho bộ phận hỗ trợ ba thứ: tên và phiên bản ứng dụng, khu vực, và nguyên văn thông báo lỗi hoặc ảnh chụp màn hình.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=troubleshooting-04) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=troubleshooting-04) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), hiệu lực lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=troubleshooting-04) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=troubleshooting-04) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), hiệu lực lâu dài

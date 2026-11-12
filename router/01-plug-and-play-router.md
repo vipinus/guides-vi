@@ -4,7 +4,7 @@
 
 1. **Cắm nguồn và dây mạng**: nối cổng WAN của router với modem hoặc router hiện có, đợi đèn báo ổn định, khoảng một phút.
 2. **Bắt Wi-Fi**: tên và mật khẩu Wi-Fi mặc định in trên thẻ hướng dẫn (mặc định khi xuất xưởng cả hai đều là tên miền của website). Kết nối xong, mở trình duyệt và vào địa chỉ quản trị `http://192.168.11.1`.
-3. **Đăng nhập tài khoản**: trên trang quản trị, nhập email và mật khẩu tài khoản rồi lưu (cả ba gói Cá nhân, Gia đình và Doanh nghiệp đều dùng được router). Từ đó trở đi, mọi thiết bị bắt Wi-Fi này đều tự động đi qua VPN.
+3. **Đăng nhập tài khoản**: trên trang quản trị, nhập email và mật khẩu tài khoản rồi lưu (cả sáu gói trả phí đều dùng được router). Từ đó trở đi, mọi thiết bị bắt Wi-Fi này đều tự động đi qua VPN.
 
 ## Đổi mật khẩu mặc định
 
@@ -17,7 +17,7 @@ Mặc định là chia luồng: các tên miền Trung Quốc có trong danh sá
 ## Câu hỏi thường gặp
 
 - **Đèn báo bình thường mà thiết bị kết nối vào không có mạng**: xem trạng thái tài khoản trên trang quản trị; tài khoản hết hạn hay sai mật khẩu đều hiện ở đó.
-- **Muốn đổi sang router khác**: hủy ràng buộc router cũ trên website trước; xem [Ràng buộc MAC và thay router](05-mac-binding-and-replacing.md).
+- **Muốn đổi sang router khác**: gói chưa liên kết đủ số thì router mới kết nối ngay; đủ rồi thì hủy liên kết router cũ trên website trước; xem [Ràng buộc MAC và thay router](05-mac-binding-and-replacing.md).
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-01) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-01) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-01) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-01) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

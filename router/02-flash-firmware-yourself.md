@@ -9,7 +9,7 @@ Bài này dành cho người đã có sẵn router thuộc danh sách được h
 ## Trước khi bắt đầu
 
 - **Kiểm tra dòng router của bạn có được hỗ trợ không.** Đăng nhập, mở mục **Router** và tìm dòng của bạn theo hãng. Phiên bản phần cứng sau tên dòng (v1, v2, v.v.) cũng phải khớp.
-- **Tài khoản phải đang còn hạn.** Gói Cá nhân, Gia đình và Doanh nghiệp đều dùng được router.
+- **Tài khoản phải đang còn hạn.** Cả sáu gói trả phí đều dùng được router (bản dùng thử miễn phí thì không).
 - **Chuẩn bị sẵn một sợi dây mạng.** Cổng WAN của router nối vào modem hoặc router phía trên. Trong lúc cài, tốt nhất cũng nối máy tính với router bằng dây; ổn định hơn Wi-Fi.
 - **Giữ lại một bản firmware gốc.** Tải firmware gốc cho dòng router của bạn từ trang của hãng, phòng khi muốn quay lại.
 
@@ -84,10 +84,10 @@ Muốn chắc là đã kết nối, hãy dùng một thiết bị đang bắt ro
 
 ## Thay router cũ bằng router mới
 
-Mỗi lúc một tài khoản chỉ liên kết với một router. Nếu tài khoản của bạn đã từng dùng trên router khác:
+Tùy gói, một tài khoản liên kết được từ 1 đến 6 router (Cơ bản 1, mỗi gói trên thêm 1). Chưa đủ số thì router mới **tự kết nối** và tự liên kết, không cần hủy liên kết. Đã đủ số mà muốn thay router mới:
 
-1. Đăng nhập, mở mục **Router**, dưới tiêu đề "Build Firmware" bạn sẽ thấy dòng router **Đã liên kết**, bên cạnh là **Hủy liên kết**.
-2. Bấm Hủy liên kết. Router cũ hỏng hay không có ở đó thì vẫn làm được.
+1. Đăng nhập, mở mục **Router**; dưới tiêu đề "Build Firmware" là danh sách router đã liên kết (ghi "x / y router"), mỗi router một dòng với model và đuôi địa chỉ MAC.
+2. Ở cuối dòng của router không dùng nữa, bấm **Hủy liên kết**. Router cũ hỏng hay không có ở đó thì vẫn làm được.
 3. Trên router mới không phải làm gì: nó **tự kết nối** và liên kết với tài khoản của bạn.
 
 Nếu bạn cài router mới trước khi hủy liên kết thì cũng không sao. Router mới sẽ chờ và tự kết nối khi bạn hủy liên kết.
@@ -104,7 +104,7 @@ Nếu sau chừng mười phút vẫn chưa được, hãy kiểm tra lần lư�
 
 1. **Bản thân đường mạng có chạy không?** Từ một thiết bị bắt router, mở một trang web bình thường bất kỳ. Không mở được thì lỗi nằm ở dây hoặc modem: kiểm tra dây ở cổng WAN đã cắm chặt chưa.
 2. **Tài khoản có hết hạn không?** Đăng nhập website xem ngày hết hạn. Gia hạn xong thì đợi vài phút.
-3. **Tài khoản có còn liên kết với router cũ không?** Trong mục Router, xem dòng router đã liên kết. Không phải router này thì bấm Hủy liên kết.
+3. **Tài khoản đã liên kết đủ số router chưa?** Trong mục Router, xem dòng "x / y router"; đủ rồi thì bấm Hủy liên kết ở cuối dòng của router không dùng. Nếu trang đăng nhập của router báo sai tên đăng nhập hoặc mật khẩu dù mật khẩu đúng, thường là do đã liên kết đủ số.
 4. **Khởi động lại router một lần.** Rút điện, đợi mười giây, cắm lại và chờ hai đến ba phút.
 5. **Đăng nhập thủ công.** Mở `http://192.168.11.1` và đăng nhập router với tên người dùng `root`, mật khẩu `www.anyfq.com`. Sau đó vào **Services** → **VPN**, nhập email và mật khẩu tài khoản rồi lưu.
 
@@ -124,11 +124,11 @@ Dòng router không có trong danh sách, phiên bản phần cứng không kh�
 
 **Có quay lại firmware gốc được không?** Được. Dùng chế độ khôi phục trong phần "Nếu cài bị lỗi" để tải firmware gốc lên.
 
-**Một file firmware dùng cho hai router được không?** Không. Firmware được build theo tài khoản, và mỗi lúc một tài khoản chỉ liên kết với một router.
+**Một tài khoản dùng được hai router không?** Từ gói Tiêu chuẩn trở lên thì được (gói Cơ bản chỉ liên kết 1 router): trong mục Router, build firmware theo model của router thứ hai rồi cài vào; lần đầu kết nối nó tự liên kết.
 
 **Đổi tài khoản có phải build lại không?** Không. Đăng xuất trên trang quản trị rồi đăng nhập bằng tài khoản mới.
 
 **Sau này cập nhật có phải cài lại không?** Các bản cập nhật thường xuyên router tự nhận; bạn không phải làm gì. Chỉ khi lên phiên bản lớn mới cần build mới và cài file sysupgrade một lần, và website sẽ thông báo khi tới lúc đó.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-02) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-02) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), hiệu lực lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-02) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-02) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), hiệu lực lâu dài

@@ -26,9 +26,9 @@ Mục Mạng riêng dùng Tailscale: một công cụ kết nối mạng dựa t
 
 ## Hết hạn và số thiết bị
 
-Hiệu lực đăng nhập của thiết bị đi theo ngày hết hạn của tài khoản; hết hạn thì thiết bị ngoại tuyến trong vài phút, gia hạn xong đăng nhập lại là được. Số thiết bị trực tuyến cùng lúc tùy theo gói (Cá nhân 2 thiết bị, Gia đình 4 thiết bị, Doanh nghiệp 8 thiết bị) và dùng chung hạn mức với các cách kết nối khác; khi số thiết bị trực tuyến cùng lúc vượt giới hạn của gói, bạn có thể tạm nâng hạng tài khoản (thời gian còn lại được quy đổi ngang giá theo giá gói) rồi dùng xong đổi lại.
+Hiệu lực đăng nhập của thiết bị đi theo ngày hết hạn của tài khoản; hết hạn thì thiết bị ngoại tuyến trong vài phút, gia hạn xong đăng nhập lại là được. Số thiết bị trực tuyến cùng lúc tùy theo gói (Cơ bản 2, Tiêu chuẩn 4, Chuyên nghiệp 8, Cao cấp 16, Doanh nghiệp 32, Tối thượng 64 thiết bị) và dùng chung hạn mức với các cách kết nối khác; khi số thiết bị trực tuyến cùng lúc vượt giới hạn của gói, bạn có thể tạm nâng hạng tài khoản (thời gian còn lại được quy đổi ngang giá theo giá gói) rồi dùng xong đổi lại.
 
 Các bước cài đặt và đăng nhập xem [Hướng dẫn ứng dụng 05](../client/05-tailscale-private-network.md).
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-03) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-03) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-03) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-03) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

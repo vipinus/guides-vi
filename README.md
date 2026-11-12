@@ -9,7 +9,7 @@ Ngôn ngữ khác: [English](https://github.com/vipinus/guides-en) · [简体中
 | Cách nhận | Bạn được gì |
 |---|---|
 | Nhận gói dùng thử miễn phí sau khi đăng ký | 30 phút đủ mọi tính năng, không cần thẻ tín dụng |
-| Mời một người bạn đăng ký và thanh toán lần đầu | Bạn và bạn bè mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân, vì gói này dùng 1 điểm mỗi ngày), cộng thẳng vào số dư điểm, mỗi người bạn được tính một lần, không giới hạn số người |
+| Mời một người bạn đăng ký và thanh toán lần đầu | Bạn và bạn bè mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản, vì gói này dùng 1 điểm mỗi ngày), cộng thẳng vào số dư điểm, mỗi người bạn được tính một lần, không giới hạn số người |
 
 Website: <https://www.leotun.com/vi?utm_source=github&utm_content=readme> · Liên hệ: <https://www.leotun.com/vi/contact?utm_source=github&utm_content=readme>
 
@@ -65,7 +65,7 @@ Giải thích rõ ràng **nguyên lý** của việc truy cập xuyên biên gi�
 | [05 · Cách nhận biết phần mềm VPN rủi ro](network/05-risky-vpn-apps.md) |
 | [06 · Vì sao lúc nhanh lúc chậm](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Đường truyền giải quyết được gì, và việc gì cần cách khác](network/07-when-you-do-not-need-us.md) |
-| [08 · Chọn giữa ba gói tài khoản, gia hạn và thanh toán](network/08-account-tiers-and-payment.md) |
+| [08 · Chọn gói tài khoản, gia hạn và thanh toán](network/08-account-tiers-and-payment.md) |
 | [09 · Hết suất kết nối thiết bị thì làm sao](network/09-not-enough-devices.md) |
 
 ### [Hướng dẫn ứng dụng · Cài đặt và thiết lập](client/)

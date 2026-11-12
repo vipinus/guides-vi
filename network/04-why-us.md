@@ -20,13 +20,13 @@ Chiều ngược lại, khi người ở nước ngoài cần dùng dịch vụ 
 - Điểm mạnh của nhà cung cấp proxy: rẻ, nhiều node, dán link subscription là dùng được ngay, người thích vọc ứng dụng thì được thoải mái tùy chỉnh.
 - Điểm yếu của nhà cung cấp proxy: phần lớn là cá nhân hoặc nhóm nhỏ thuê máy ở nước ngoài để bán lại lưu lượng, không có điểm tiếp nhận riêng trong Trung Quốc, chất lượng lối ra lên xuống theo đường truyền đi thuê; ôm tiền biến mất, đổi tên, đóng cửa là chuyện thường gặp, trả tiền một năm chưa chắc đã dùng đủ một năm; ứng dụng gần như để người dùng tự mày mò, có sự cố thì không ai chịu trách nhiệm.
 - Cách chúng tôi làm: máy là của chúng tôi, lối ra ở Trung Quốc là máy đăng ký tên thật của chính chúng tôi tại các nhà cung cấp đám mây ở đại lục; một tài khoản có sáu cách kết nối, giải pháp router cho cả nhà và nhóm hỗ trợ 24 giờ là những thứ nhà cung cấp proxy không có; chúng tôi hoạt động từ 2006 đến nay, tài khoản, thời hạn và giá không thay đổi trước và sau khi đổi tên.
-- Giá của chúng tôi: gói Cá nhân 5 đô la mỗi tháng, gói Gia đình 10 đô la, gói Doanh nghiệp 20 đô la, đã bao gồm máy riêng, sáu cách kết nối và nhóm hỗ trợ 24 giờ; bạn chỉ chọn khu vực, phía sau mỗi khu vực hệ thống tự chọn máy rảnh nhất, không cần tự đo tốc độ chọn node.
+- Giá của chúng tôi: gói Cơ bản 5 đô la mỗi tháng, gói Tiêu chuẩn 10 đô la, gói Chuyên nghiệp 20 đô la, trên nữa còn Cao cấp, Doanh nghiệp, Tối thượng (mỗi gói gấp đôi), đã bao gồm máy riêng, sáu cách kết nối và nhóm hỗ trợ 24 giờ; bạn chỉ chọn khu vực, phía sau mỗi khu vực hệ thống tự chọn máy rảnh nhất, không cần tự đo tốc độ chọn node.
 
 ## So với phần mềm miễn phí
 
 - Điểm mạnh của hàng miễn phí: không tốn tiền, thỉnh thoảng tra cứu gì đó thì đủ dùng.
 - Điểm yếu của hàng miễn phí: băng thông lối ra ở đại lục tính tiền theo lưu lượng, nên dịch vụ miễn phí chỉ sống được bằng cách nhồi nhiều người dùng, bóp tốc độ hoặc bán dữ liệu; loại tiện ích trình duyệt chỉ đưa yêu cầu web qua proxy, video, ứng dụng và DNS hệ thống đều không đi qua; file cài không rõ nguồn gốc tự nó đã là rủi ro, xem "Cách nhận biết phần mềm VPN rủi ro".
-- Cách chúng tôi làm: dùng thử miễn phí 30 phút không cần thẻ tín dụng, để bạn kiểm hàng; trả theo ngày (bằng điểm) cho người thỉnh thoảng mới dùng; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân) — nguồn thời gian miễn phí lâu dài.
+- Cách chúng tôi làm: dùng thử miễn phí 30 phút không cần thẻ tín dụng, để bạn kiểm hàng; trả theo ngày (bằng điểm) cho người thỉnh thoảng mới dùng; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản) — nguồn thời gian miễn phí lâu dài.
 - Cách chúng tôi sắp xếp: thời gian miễn phí đến từ 30 phút dùng thử và thưởng mời bạn; dùng lâu dài thì trả theo tháng, theo năm hoặc theo ngày.
 
 ## Sáu cách kết nối, một tài khoản
@@ -37,8 +37,8 @@ Mỗi kiểu mạng có một cách hợp nhất, nên bạn được cả sáu:
 
 ## Quy định tài khoản
 
-- Tài khoản có ba gói Cá nhân, Gia đình và Doanh nghiệp, lần lượt cho 2, 4 và 8 thiết bị trực tuyến cùng lúc; khu vực, lưu lượng và cách kết nối ở cả ba gói đều như nhau. Cài trên bao nhiêu thiết bị cũng được, chỉ giới hạn số kết nối cùng lúc. Khi số thiết bị trực tuyến cùng lúc vượt giới hạn của gói, bạn có thể tạm nâng hạng tài khoản (thời gian còn lại được quy đổi ngang giá theo giá gói) rồi dùng xong đổi lại.
-- Đổi qua lại giữa ba gói lúc nào cũng được, thời gian còn lại quy đổi ngang giá (Gia đình và Doanh nghiệp lần lượt bằng 2 lần và 4 lần giá Cá nhân); cả ba gói đều dùng được router, một người dùng thì gói Cá nhân là đủ.
+- Tài khoản có sáu gói Cơ bản, Tiêu chuẩn, Chuyên nghiệp, Cao cấp, Doanh nghiệp và Tối thượng, lần lượt cho 2, 4, 8, 16, 32 và 64 thiết bị trực tuyến cùng lúc; khu vực, lưu lượng và cách kết nối ở mọi gói đều như nhau. Cài trên bao nhiêu thiết bị cũng được, chỉ giới hạn số kết nối cùng lúc. Khi số thiết bị trực tuyến cùng lúc vượt giới hạn của gói, bạn có thể tạm nâng hạng tài khoản (thời gian còn lại được quy đổi ngang giá theo giá gói) rồi dùng xong đổi lại.
+- Đổi qua lại giữa các gói lúc nào cũng được, thời gian còn lại quy đổi ngang giá (mỗi gói gấp đôi giá gói liền trước); gói nào cũng dùng được router, không giới hạn tốc độ, một người dùng thì gói Cơ bản là đủ.
 - Hoàn tiền theo tỷ lệ thời gian đã dùng, lúc nào cũng được, xử lý thủ công; không cam kết thời gian tiền về cụ thể.
 - Tốc độ: chúng tôi cam kết xem YouTube mượt, kể cả giờ cao điểm buổi tối, với điều kiện băng thông rộng của bạn tốt: China Unicom ở miền Bắc hoặc China Telecom ở miền Nam Trung Quốc. Ngoại lệ là băng thông rộng dùng chung của khu chung cư (loại mạng do ban quản lý khu dân cư chia lại). Nếu một khu vực chậm thì đổi khu vực hoặc đổi cách kết nối.
 - Cấu hình Hiddify và OpenVPN gắn với tài khoản của bạn, đổi mật khẩu là thu hồi các cấu hình cũ: mất điện thoại hay lộ link thì chỉ cần đổi mật khẩu một lần là lấy lại được, sau đó nhập lại là xong.
@@ -55,7 +55,7 @@ Mỗi kiểu mạng có một cách hợp nhất, nên bạn được cả sáu:
 
 **Sao không cung cấp hàng trăm node như nhà cung cấp proxy?** Nhiều node không có nghĩa là ổn định hơn. Phía sau mỗi khu vực của chúng tôi có nhiều máy, khi kết nối hệ thống tự chọn máy rảnh nhất, bạn không phải tự đo tốc độ chọn node; địa chỉ nào bị chặn thì được thay tự động, địa chỉ trong ứng dụng của bạn không cần sửa.
 
-**Giá có rẻ hơn được không?** Gói Cá nhân 5 đô la mỗi tháng, mua càng lâu giảm càng nhiều (giảm 5% → giảm 10% → giảm 20%); trả theo ngày bằng điểm khoảng 0,36 đô la một ngày; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), không giới hạn số người. Đăng ký còn được dùng thử miễn phí 30 phút.
+**Giá có rẻ hơn được không?** Gói Cơ bản 5 đô la mỗi tháng, mua càng lâu giảm càng nhiều (giảm 5% → giảm 10% → giảm 20%); trả theo ngày bằng điểm khoảng 0,36 đô la một ngày; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), không giới hạn số người. Đăng ký còn được dùng thử miễn phí 30 phút.
 
 **Làm sao kiểm chứng những gì các bạn nói?** Nhận 30 phút dùng thử, vào giờ cao điểm buổi tối kết nối khu vực Trung Quốc xem một tập phim trên Tencent Video, kết nối khu vực nước ngoài mở YouTube, rồi kiểm tra nơi đăng ký của IP và một trang kiểm tra IPv6. Danh sách kiểm tra nằm trong "Cách chọn VPN có IP Trung Quốc".
 
@@ -70,4 +70,4 @@ Mỗi kiểu mạng có một cách hợp nhất, nên bạn được cả sáu:
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-04) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-04) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-04) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-04) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

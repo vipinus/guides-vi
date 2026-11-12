@@ -34,7 +34,7 @@ Với đường này, về thiết kế không có kết nối nào để mà r�
 
 ## Những điều cần biết
 
-- Một máy Linux tính là một thiết bị và dùng chung hạn mức trực tuyến cùng lúc với các thiết bị khác của bạn (Cá nhân 2 thiết bị, Gia đình 4 thiết bị, Doanh nghiệp 8 thiết bị); Web Proxy ở đường thứ hai được tính theo kết nối và cũng nằm trong đó.
+- Một máy Linux tính là một thiết bị và dùng chung hạn mức trực tuyến cùng lúc với các thiết bị khác của bạn (Cơ bản 2, Tiêu chuẩn 4, Chuyên nghiệp 8, Cao cấp 16, Doanh nghiệp 32, Tối thượng 64 thiết bị); Web Proxy ở đường thứ hai được tính theo kết nối và cũng nằm trong đó.
 - File cấu hình và file mật khẩu tương đương tài khoản của bạn; đừng commit vào kho git hay đóng vào image.
 - Đổi mật khẩu thì cấu hình cũ mất hiệu lực ngay; đây là cơ chế thu hồi có chủ ý. Chỉ cần cập nhật file mật khẩu.
 - Khi chạy đường truyền trên máy chủ đám mây, hãy tuân theo điều khoản sử dụng của nhà cung cấp; đường truyền chỉ ghi lại thời lượng kết nối và tổng lưu lượng.
@@ -59,4 +59,4 @@ Với đường này, về thiết kế không có kết nối nào để mà r�
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=overseas-access-05) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=overseas-access-05) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), hiệu lực lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=overseas-access-05) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=overseas-access-05) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), hiệu lực lâu dài

@@ -28,4 +28,4 @@ Làm sao để IP mà máy chủ nhìn thấy là IP Trung Quốc đại lục. 
 - [Danh sách kiểm tra khi không kết nối được, chậm hoặc hay rớt](../troubleshooting/01-cannot-connect-slow-drops.md)
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-01) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-01) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mỗi người bạn bạn mời trả phí sẽ giúp mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi không có hạn kết thúc
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-01) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-01) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mỗi người bạn bạn mời trả phí sẽ giúp mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi không có hạn kết thúc

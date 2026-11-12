@@ -29,9 +29,9 @@ Mã xác minh qua SMS không tới thì không liên quan tới đường truy�
 
 ## Câu hỏi thường gặp
 
-**Chuyến đi chỉ vài ngày. Có cần mua một tháng không?** Không. Nạp điểm và trả theo ngày: gói Cá nhân tốn 1 điểm mỗi ngày, khoảng 0,36 đô la Mỹ một ngày, rất hợp cho vài ngày. Có thể thử trước bằng gói dùng thử miễn phí 30 phút.
+**Chuyến đi chỉ vài ngày. Có cần mua một tháng không?** Không. Nạp điểm và trả theo ngày: gói Cơ bản tốn 1 điểm mỗi ngày, khoảng 0,36 đô la Mỹ một ngày, rất hợp cho vài ngày. Có thể thử trước bằng gói dùng thử miễn phí 30 phút.
 
-**Điện thoại và laptop kết nối cùng lúc được không?** Được. Tùy gói, một tài khoản có 2 / 4 / 8 thiết bị trực tuyến cùng lúc (Cá nhân / Gia đình / Doanh nghiệp), gói Cá nhân vừa đúng một điện thoại cộng một laptop.
+**Điện thoại và laptop kết nối cùng lúc được không?** Được. Tùy gói, một tài khoản có từ 2 đến 64 thiết bị trực tuyến cùng lúc (Cơ bản 2, Tiêu chuẩn 4, mỗi gói trên gấp đôi), gói Cơ bản vừa đúng một điện thoại cộng một laptop.
 
 **Sao đi lại lại khuyên dùng Cisco chứ không phải Hiddify?** Ở mạng lạ, điều đáng lo nhất là UDP bị hạn chế. Cisco chạy trên TLS, giống như vào một trang HTTPS, nên đi qua được hầu như mọi nơi; Hiddify nhanh hơn ở mạng mất gói nhiều, nhưng không chạy khi UDP bị hạn chế. Cài cả hai, cái này không được thì chuyển cái kia là chắc ăn nhất.
 
@@ -47,4 +47,4 @@ Mã xác minh qua SMS không tới thì không liên quan tới đường truy�
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-12) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-12) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-12) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-12) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

@@ -41,9 +41,9 @@ Chiều truy cập Trung Quốc từ nước ngoài không thay đổi.
 - **Kết nối xong thì không vào được máy in hay NAS**: tức là địa chỉ mạng nội bộ cũng bị gửi ra ngoài. Kiểm tra quy tắc chia luồng có loại trừ các dải riêng như 192.168.x.x không.
 - **Hiệu năng router** là mức trần. CPU của router cũ chạy hết công suất khi gặp lưu lượng mã hóa, biểu hiện là cả nhà cùng chậm. Khi đó vấn đề không nằm ở đường truyền VPN.
 
-## Một tài khoản, một router
+## Router gắn với tài khoản
 
-Phần lớn các dịch vụ ràng buộc router với tài khoản (theo địa chỉ MAC). Một tài khoản ràng buộc một router, đổi router thì phải hủy ràng buộc trước. Nhờ vậy tài khoản chỉ thuộc về riêng bạn.
+Phần lớn các dịch vụ ràng buộc router với tài khoản (theo địa chỉ MAC). Ở đây, tùy gói, một tài khoản ràng buộc được từ 1 đến 6 router; đã đủ số mà muốn đổi router thì phải hủy liên kết trước. Nhờ vậy tài khoản chỉ thuộc về riêng bạn.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-03) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-03) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-03) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-03) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

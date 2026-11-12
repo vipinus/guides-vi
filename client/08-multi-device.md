@@ -11,9 +11,9 @@ Với người có nhiều thiết bị, phiền nhất là phải cấu hình t
 
 ## Cách tính số thiết bị cùng lúc
 
-Một tài khoản cài trên bao nhiêu thiết bị cũng được; giới hạn chỉ tính số thiết bị trực tuyến cùng lúc: Cá nhân 2, Gia đình 4, Doanh nghiệp 8, dùng chung một hạn mức với Cisco, Hiddify và các cách khác. Khi vượt giới hạn của gói, bạn có thể tạm nâng hạng tài khoản (thời gian còn lại được quy đổi tương đương theo giá) rồi dùng xong thì đổi lại.
+Một tài khoản cài trên bao nhiêu thiết bị cũng được; giới hạn chỉ tính số thiết bị trực tuyến cùng lúc: Cơ bản 2, Tiêu chuẩn 4, Chuyên nghiệp 8, Cao cấp 16, Doanh nghiệp 32, Tối thượng 64, dùng chung một hạn mức với Cisco, Hiddify và các cách khác. Khi vượt giới hạn của gói, bạn có thể tạm nâng hạng tài khoản (thời gian còn lại được quy đổi tương đương theo giá) rồi dùng xong thì đổi lại.
 
-Một router tính là một thiết bị, các thiết bị phía sau nó không tính. Một router hoặc NAS ở nhà cộng với điện thoại và laptop mang theo người thường là đủ.
+Mỗi router tính là một thiết bị, các thiết bị phía sau nó không tính. Một router hoặc NAS ở nhà cộng với điện thoại và laptop mang theo người thường là đủ.
 
 ## Các thiết bị truy cập được lẫn nhau
 
@@ -49,4 +49,4 @@ Một router tính là một thiết bị, các thiết bị phía sau nó khôn
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=client-08) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=client-08) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=client-08) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=client-08) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

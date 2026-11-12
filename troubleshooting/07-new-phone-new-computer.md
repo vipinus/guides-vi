@@ -30,7 +30,7 @@ File cấu hình thường nằm trên ổ hệ thống và mất khi cài lại
 
 ### Đổi router
 
-Router khác các thiết bị khác: giữa nó và tài khoản có **ràng buộc**. Muốn đổi sang router mới, hãy hủy ràng buộc router cũ trước. Bước này bạn tự làm trên website: đăng nhập, mở mục Router, và ở dòng ghi "đã ràng buộc · mẫu router · Hủy ràng buộc" bấm Hủy ràng buộc; router mới sẽ tự kết nối. Chi tiết xem bài tương ứng trong Hướng dẫn router.
+Router khác các thiết bị khác: giữa nó và tài khoản có **ràng buộc**. Tùy gói, một tài khoản ràng buộc được từ 1 đến 6 router; chưa đủ số thì router mới kết nối ngay. Đủ rồi thì hủy liên kết router cũ trước. Bước này bạn tự làm trên website: đăng nhập, mở mục Router, trong danh sách dưới tiêu đề "Build Firmware" (ghi "x / y router") bấm "Hủy liên kết" ở cuối dòng của router cũ; router mới sẽ tự kết nối. Chi tiết xem bài tương ứng trong Hướng dẫn router.
 
 ## Một hiểu lầm rất phổ biến
 
@@ -45,7 +45,7 @@ Vì vậy cách làm chuẩn luôn là: **lên website lấy một bản mới**
 
 ## Hết suất thì làm sao
 
-Số thiết bị trực tuyến cùng lúc của một tài khoản tùy theo gói: Cá nhân 2, Gia đình 4, Doanh nghiệp 8. Nếu lúc đổi mà thiết bị cũ vẫn đang kết nối, bạn có thể bị báo đã đạt giới hạn. Có ba cách:
+Số thiết bị trực tuyến cùng lúc của một tài khoản tùy theo gói: Cơ bản 2, Tiêu chuẩn 4, Chuyên nghiệp 8, Cao cấp 16, Doanh nghiệp 32, Tối thượng 64. Nếu lúc đổi mà thiết bị cũ vẫn đang kết nối, bạn có thể bị báo đã đạt giới hạn. Có ba cách:
 
 - Đăng xuất hoặc tắt ứng dụng trên thiết bị cũ
 - Đợi một lúc — kết nối nhàn rỗi sẽ tự được giải phóng
@@ -54,4 +54,4 @@ Số thiết bị trực tuyến cùng lúc của một tài khoản tùy theo g
 Trên trang web bạn xem được hiện có bao nhiêu thiết bị đang trực tuyến và mỗi cái thuộc loại nào, từ đó biết mình có quên tắt máy nào không.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=troubleshooting-07) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=troubleshooting-07) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=troubleshooting-07) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=troubleshooting-07) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

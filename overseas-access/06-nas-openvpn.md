@@ -31,7 +31,7 @@ Truy cập NAS từ bên ngoài (mở thư mục chia sẻ khi đi công tác, x
 
 - File cấu hình gắn với tài khoản của bạn, đổi mật khẩu thì ô mật khẩu trên NAS hết tác dụng: tải lại file .ovpn để thay, hoặc chỉ sửa mật khẩu trong VPN profile.
 - Tài khoản hết hạn thì NAS bị ngắt; gia hạn xong nó tự kết nối lại, không phải thay cấu hình.
-- NAS tính là một thiết bị, dùng chung hạn mức trực tuyến cùng lúc với các thiết bị khác (Cá nhân 2 thiết bị, Gia đình 4 thiết bị, Doanh nghiệp 8 thiết bị).
+- NAS tính là một thiết bị, dùng chung hạn mức trực tuyến cùng lúc với các thiết bị khác (Cơ bản 2, Tiêu chuẩn 4, Chuyên nghiệp 8, Cao cấp 16, Doanh nghiệp 32, Tối thượng 64 thiết bị).
 - Đường truyền chạy trên UDP; NAS dùng băng thông rộng gia đình hầu như không bao giờ gặp chuyện UDP bị hạn chế.
 
 ## Câu hỏi thường gặp
@@ -54,4 +54,4 @@ Truy cập NAS từ bên ngoài (mở thư mục chia sẻ khi đi công tác, x
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=overseas-access-06) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=overseas-access-06) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=overseas-access-06) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=overseas-access-06) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

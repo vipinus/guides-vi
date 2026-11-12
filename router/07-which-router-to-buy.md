@@ -2,7 +2,7 @@
 
 > Bản trên website (đầy đủ hơn): https://www.leotun.com/vi/guides/router?utm_source=github&utm_content=router-07
 
-Router giải quyết chuyện "thiết bị quá nhiều, có cái lại không cài được ứng dụng": VPN được thiết lập một lần trên router, rồi TV, máy chơi game, loa thông minh và điện thoại của ông bà đều tự động đi qua đó, không phải cài gì. Bạn chỉ cần một router cài được firmware và mười phút để cài. **Cả ba gói Cá nhân, Gia đình và Doanh nghiệp đều dùng được router.**
+Router giải quyết chuyện "thiết bị quá nhiều, có cái lại không cài được ứng dụng": VPN được thiết lập một lần trên router, rồi TV, máy chơi game, loa thông minh và điện thoại của ông bà đều tự động đi qua đó, không phải cài gì. Bạn chỉ cần một router cài được firmware và mười phút để cài. **Cả sáu gói trả phí đều dùng được router, mỗi gói liên kết được từ 1 đến 6 router.**
 
 ## Khi nào nên dùng, khi nào không
 
@@ -26,12 +26,12 @@ Router giải quyết chuyện "thiết bị quá nhiều, có cái lại không
 
 | Mẫu | Loại | Giá | Kèm theo | Đặc điểm | Hợp nhất với |
 |---|---|---|---|---|---|
-| **GL-MT3000** | Di động | 250 đô la | 2 năm dịch vụ gói Cá nhân | Wi‑Fi 6 hai băng tần, có cổng 2.5G, lớn hơn lòng bàn tay một chút | Router chính cho gia đình nhỏ — TV, hộp xem phim, vài điện thoại và máy tính — mà vẫn nhỏ gọn bỏ vừa ba lô |
-| GL-AXT1800 | Di động | 300 đô la | 2 năm dịch vụ gói Cá nhân | Wi‑Fi 6 hai băng tần, một cổng WAN gigabit và hai cổng LAN gigabit, cỡ tương đương GL-MT3000 | Khi đi xa, ngoài Wi‑Fi còn cần cắm dây cùng lúc hai thiết bị, ví dụ laptop và hộp xem phim |
-| GL-MT3600BE | Di động | 350 đô la | 2 năm dịch vụ gói Cá nhân | Wi‑Fi 7 hai băng tần, hai cổng 2.5G, cỡ tương đương GL-MT3000 | Điện thoại và laptop đã hỗ trợ Wi‑Fi 7, muốn Wi‑Fi nhanh hơn trong một thiết bị vẫn mang theo được |
-| GL-MT6000 | Để bàn | 400 đô la | 2 năm dịch vụ gói Cá nhân | Hai cổng 2.5G cộng bốn cổng gigabit, ăng-ten rời, xử lý mạnh nhất | Nhà rộng, nhiều thiết bị (một chục trở lên), băng thông rộng trên 1 Gbps, xem 4K và chơi game console, hoặc văn phòng nhỏ. Để cố định một chỗ làm router duy nhất |
+| **GL-MT3000** | Di động | 250 đô la | 2 năm dịch vụ gói Cơ bản | Wi‑Fi 6 hai băng tần, có cổng 2.5G, lớn hơn lòng bàn tay một chút | Router chính cho gia đình nhỏ — TV, hộp xem phim, vài điện thoại và máy tính — mà vẫn nhỏ gọn bỏ vừa ba lô |
+| GL-AXT1800 | Di động | 300 đô la | 2 năm dịch vụ gói Cơ bản | Wi‑Fi 6 hai băng tần, một cổng WAN gigabit và hai cổng LAN gigabit, cỡ tương đương GL-MT3000 | Khi đi xa, ngoài Wi‑Fi còn cần cắm dây cùng lúc hai thiết bị, ví dụ laptop và hộp xem phim |
+| GL-MT3600BE | Di động | 350 đô la | 2 năm dịch vụ gói Cơ bản | Wi‑Fi 7 hai băng tần, hai cổng 2.5G, cỡ tương đương GL-MT3000 | Điện thoại và laptop đã hỗ trợ Wi‑Fi 7, muốn Wi‑Fi nhanh hơn trong một thiết bị vẫn mang theo được |
+| GL-MT6000 | Để bàn | 400 đô la | 2 năm dịch vụ gói Cơ bản | Hai cổng 2.5G cộng bốn cổng gigabit, ăng-ten rời, xử lý mạnh nhất | Nhà rộng, nhiều thiết bị (một chục trở lên), băng thông rộng trên 1 Gbps, xem 4K và chơi game console, hoặc văn phòng nhỏ. Để cố định một chỗ làm router duy nhất |
 
-Số tháng kèm theo tính theo gói Cá nhân; gói Gia đình được một nửa, Doanh nghiệp được một phần tư, giá trị như nhau. Miễn phí vận chuyển toàn cầu, thường 3–14 ngày. Bảo hành sáu tháng; router không được hoàn tiền.
+Số tháng kèm theo tính theo gói Cơ bản; Tiêu chuẩn được 12 tháng, Chuyên nghiệp 6 tháng, Cao cấp 3 tháng, Doanh nghiệp 1 tháng, Tối thượng không tặng thêm; giá trị như nhau. Miễn phí vận chuyển toàn cầu, thường 3–14 ngày. Bảo hành sáu tháng; router không được hoàn tiền.
 
 ### Chọn nhanh theo tình huống
 
@@ -46,7 +46,7 @@ Số tháng kèm theo tính theo gói Cá nhân; gói Gia đình được một 
 
 - **Một máy, hai vai.** Đủ mạnh để làm router chính cho gia đình nhỏ, đủ nhỏ để mang đi xa. Trong bốn mẫu, chỉ nó làm được cả hai.
 - **Không nhanh lỗi thời.** Wi‑Fi 6 và cổng 2.5G còn dư sức so với hầu hết băng thông rộng gia đình.
-- **Giá thấp nhất.** 250 đô la kèm 2 năm dịch vụ gói Cá nhân, rẻ nhất trong bốn mẫu, rẻ hơn GL-AXT1800 50 đô la mà vẫn có cổng 2.5G.
+- **Giá thấp nhất.** 250 đô la kèm 2 năm dịch vụ gói Cơ bản, rẻ nhất trong bốn mẫu, rẻ hơn GL-AXT1800 50 đô la mà vẫn có cổng 2.5G.
 - **Là mẫu chúng tôi hiểu rõ nhất.** Máy thử nghiệm của chính chúng tôi là mẫu này, firmware mới được kiểm tra trên nó trước, và [video hướng dẫn cài firmware](02-flash-firmware-yourself.md) cũng dùng nó. Khi bạn gặp sự cố, chúng tôi có đúng máy đó trên bàn để đối chiếu.
 
 Khi nào không chọn nó: cần máy mang theo có hai cổng dây thì GL-AXT1800; thiết bị hỗ trợ Wi‑Fi 7 thì GL-MT3600BE; nhà rộng, nhiều thiết bị hoặc băng thông rộng trên 1 Gbps thì chọn thẳng GL-MT6000.
@@ -61,11 +61,11 @@ Khi nào không chọn nó: cần máy mang theo có hai cổng dây thì GL-AXT
 
 ## Câu hỏi thường gặp
 
-**Router có tính là một thiết bị không?** Nó chiếm một suất của tài khoản (theo gói: Cá nhân 2, Gia đình 4, Doanh nghiệp 8 thiết bị trực tuyến cùng lúc), các thiết bị phía sau nó không tính riêng.
+**Router có tính là một thiết bị không?** Mỗi router chiếm một suất của tài khoản (theo gói: Cơ bản 2, Tiêu chuẩn 4, Chuyên nghiệp 8, Cao cấp 16, Doanh nghiệp 32, Tối thượng 64 thiết bị trực tuyến cùng lúc), các thiết bị phía sau nó không tính riêng.
 
 **Ở nước ngoài dùng nó để xem video Trung Quốc được không?** Được, chọn khu vực Trung Quốc cho đường truyền. Router đưa cả mạng trong nhà vào VPN, IPv6 và DNS của các thiết bị không lọt ra ngoài được, nên ít gặp thông báo "giới hạn bản quyền" hơn so với điện thoại tự kết nối. Xem [06](06-unlock-chinese-video-with-router.md).
 
 **Firmware có cửa hậu không?** Nó được biên dịch từ OpenWrt, chỉ thêm thành phần kết nối VPN và quy tắc chia luồng; VPN chỉ ghi lại thời lượng kết nối và tổng lưu lượng để tính phí, không ghi lại bạn truy cập gì.
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-07) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-07) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=router-07) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=router-07) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

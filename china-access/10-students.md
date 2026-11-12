@@ -48,7 +48,7 @@ Khi kết nối từ trong Trung Quốc, địa chỉ AnyConnect và Hiddify t�
 
 **Dùng VPN về Trung Quốc có ảnh hưởng tài khoản mạng trường của du học sinh không?** Không. Đường truyền chỉ đưa lưu lượng của bạn tới lối ra ở Trung Quốc, mạng trường chỉ thấy một kết nối đã mã hóa. Quy định sử dụng của đa số trường chỉ cấm tải nội dung vi phạm bản quyền và tấn công mạng, việc cá nhân truy cập dịch vụ của nước mình không nằm trong đó; chưa chắc thì xem quy định sử dụng mạng (acceptable use policy) của trường.
 
-**Một tài khoản dùng chung với bạn cùng phòng được không?** Tùy gói, một tài khoản cho 2 (Cá nhân), 4 (Gia đình) hoặc 8 (Doanh nghiệp) thiết bị trực tuyến cùng lúc, dùng chung với người nhà hay bạn cùng phòng nằm trong phạm vi quy định cho phép. Nhưng với những việc như ngân hàng trực tuyến thì mỗi người nên dùng tài khoản riêng cho an toàn, tránh nhiều người liên tục chuyển đổi trên cùng đường truyền mà kích hoạt kiểm soát rủi ro.
+**Một tài khoản dùng chung với bạn cùng phòng được không?** Tùy gói, một tài khoản cho từ 2 (Cơ bản), 4 (Tiêu chuẩn), 8 (Chuyên nghiệp) đến 64 (Tối thượng) thiết bị trực tuyến cùng lúc, dùng chung với người nhà hay bạn cùng phòng nằm trong phạm vi quy định cho phép. Nhưng với những việc như ngân hàng trực tuyến thì mỗi người nên dùng tài khoản riêng cho an toàn, tránh nhiều người liên tục chuyển đổi trên cùng đường truyền mà kích hoạt kiểm soát rủi ro.
 
 **Sao ở ký túc xá Hiddify chậm mà AnyConnect lại bình thường?** Nhiều khả năng mạng trường hạn chế UDP. Giao thức hysteria2 của Hiddify dựa trên UDP, bị bóp thì biểu hiện là chậm hoặc rớt; AnyConnect chạy trên TLS, giống như vào một trang web HTTPS, nên không bị ảnh hưởng.
 
@@ -66,4 +66,4 @@ Khi kết nối từ trong Trung Quốc, địa chỉ AnyConnect và Hiddify t�
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/students?utm_source=github&utm_content=china-access-10
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-10) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-10) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=china-access-10) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=china-access-10) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài

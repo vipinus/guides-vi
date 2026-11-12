@@ -9,7 +9,7 @@ Một tài khoản LeoTun có sáu cách kết nối: Mạng riêng (Tailscale),
 - Máy tính công ty cấp, không có quyền quản trị: Web Proxy. Bạn chỉ cài một tiện ích trình duyệt, không cần quyền quản trị, cũng không đụng tới cài đặt mạng của công ty.
 - iPhone, thiết bị cũ: Cisco. Kết nối bằng VPN có sẵn của hệ thống hoặc ứng dụng chính thức, không phải nhập cấu hình, tương thích tốt nhất.
 - NAS (Synology, QNAP), máy chủ Linux: OpenVPN. Nhập một file .ovpn là tự kết nối khi khởi động; phần lớn các thiết bị này có sẵn ứng dụng.
-- TV, đầu thu, máy chơi game, điện thoại của người lớn tuổi: Router. Thiết bị nào bắt Wi‑Fi là đi qua đường truyền, trên thiết bị không phải cài gì. Cả ba gói tài khoản đều dùng được.
+- TV, đầu thu, máy chơi game, điện thoại của người lớn tuổi: Router. Thiết bị nào bắt Wi‑Fi là đi qua đường truyền, trên thiết bị không phải cài gì. Cả sáu gói trả phí đều dùng được.
 - Nhiều thiết bị của cả gia đình hay cả văn phòng: Router, cấu hình một lần là có tác dụng cho tất cả; nếu còn muốn vào NAS ở nhà từ bên ngoài thì thêm Mạng riêng.
 
 ## Theo môi trường mạng: bạn đang dùng mạng gì
@@ -62,7 +62,7 @@ Nếu có trang không mở được khi chia luồng, trước hết tạm chuy
 
 **Chơi game và gọi thoại thì dùng cách nào?** Hiddify, Mạng riêng hoặc Router, chọn khu vực có độ trễ thấp nhất. Web Proxy chỉ lo trình duyệt; game và ứng dụng gọi điện không đi qua nó.
 
-**Sáu cách dùng cùng lúc được không?** Trên các thiết bị khác nhau thì được; mọi cách trong cùng một tài khoản dùng chung hạn mức trực tuyến cùng lúc (Cá nhân 2 thiết bị, Gia đình 4 thiết bị, Doanh nghiệp 8 thiết bị). Đừng chạy cùng lúc hai cách cho cả thiết bị trên cùng một máy (ví dụ Mạng riêng và Cisco), vì chúng sẽ giành nhau cài đặt mạng.
+**Sáu cách dùng cùng lúc được không?** Trên các thiết bị khác nhau thì được; mọi cách trong cùng một tài khoản dùng chung hạn mức trực tuyến cùng lúc (Cơ bản 2, Tiêu chuẩn 4, Chuyên nghiệp 8, Cao cấp 16, Doanh nghiệp 32, Tối thượng 64 thiết bị). Đừng chạy cùng lúc hai cách cho cả thiết bị trên cùng một máy (ví dụ Mạng riêng và Cisco), vì chúng sẽ giành nhau cài đặt mạng.
 
 **Có phải chọn giữa router và ứng dụng không?** Không. Ở nhà dùng router, ra ngoài bật ứng dụng trên điện thoại; mỗi bên tính là một thiết bị.
 
@@ -78,4 +78,4 @@ Nếu có trang không mở được khi chia luồng, trước hết tạm chuy
 Bản trên website của bài này (có cả tiếng Việt): https://www.leotun.com/vi/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-02) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-02) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cá nhân), ưu đãi áp dụng lâu dài
+Biên soạn bởi nhóm [LeoTun](https://www.leotun.com/vi?utm_source=github&utm_content=network-02) · Có thắc mắc? Xem [trang liên hệ](https://www.leotun.com/vi/contact?utm_source=github&utm_content=network-02) (nhóm chat, email và hỗ trợ đều có ở đó) · Đăng ký để dùng thử miễn phí 30 phút; mời một người bạn trả phí thì mỗi người nhận 15 điểm (khoảng 15 ngày gói Cơ bản), ưu đãi áp dụng lâu dài
