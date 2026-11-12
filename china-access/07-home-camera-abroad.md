@@ -24,7 +24,7 @@ Lưu ý ứng dụng cùng tên trên kho ứng dụng nước ngoài thường 
 2. Điện thoại hoặc máy tính ở nước ngoài cũng vào cùng mạng riêng đó.
 3. Từ đó thiết bị ở nước ngoài truy cập thẳng NVR bằng địa chỉ LAN ở nhà, y như bạn đang ở nhà.
 
-"Mạng riêng" của LeoTun chính là loại mạng riêng này. Một tài khoản cài trên bao nhiêu thiết bị cũng được, số thiết bị trực tuyến cùng lúc theo gói: Cơ bản 2, Tiêu chuẩn 4, Chuyên nghiệp 8, Cao cấp 16, Doanh nghiệp 32, Tối thượng 64 thiết bị. Một thiết bị ở nhà cộng vài thiết bị ở nước ngoài thì vừa khít gói Gia đình.
+"Mạng riêng" của LeoTun chính là loại mạng riêng này. Một tài khoản cài trên bao nhiêu thiết bị cũng được, số thiết bị trực tuyến cùng lúc theo gói: Cơ bản 2, Tiêu chuẩn 4, Chuyên nghiệp 8, Cao cấp 16, Doanh nghiệp 32, Tối thượng 64 thiết bị. Một thiết bị ở nhà cộng vài thiết bị ở nước ngoài thì vừa khít gói Tiêu chuẩn.
 
 ## Trường hợp ba: tài khoản không khớp
 
